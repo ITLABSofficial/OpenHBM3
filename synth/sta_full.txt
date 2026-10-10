@@ -1,0 +1,1862 @@
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 13156, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 13189, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 13222, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 13255, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 13288, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 13321, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 13354, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 14748, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 14781, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_LVT_SS_nldm.lib line 14814, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 13156, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 13189, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 13222, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 13255, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 13288, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 13321, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 13354, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 14748, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 14781, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_RVT_SS_nldm.lib line 14814, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 13156, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 13189, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 13222, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 13255, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 13288, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 13321, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 13354, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 14748, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 14781, timing group from output port.
+[WARNING STA-1212] /content/route/lib/asap7sc7p5t_SIMPLE_SLVT_SS_nldm.lib line 14814, timing group from output port.
+[WARNING EST-0026] Missing route to pin u_digital\/core_reset_sync\/sync_rst_n$_DFF_PN0_/RESETN in net core_rst_n.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[14\].fifo\/wr_gray_rd1\[3\]$_DFF_PN0_/RESETN in net u_digital\/gearbox_cdc\/g_cdc\[14\].fifo\/rd_rst_n.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[1\].fifo\/wr_gray_rd2\[0\]$_DFF_PN0_/RESETN in net u_digital\/gearbox_cdc\/g_cdc\[1\].fifo\/rd_rst_n.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[1\].fifo\/rd_gray\[1\]$_DFF_PN0_/RESETN in net u_digital\/gearbox_cdc\/g_cdc\[1\].fifo\/rd_rst_n.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[8\].fifo\/rd_bin\[3\]$_DFF_PN0_/RESETN in net u_digital\/gearbox_cdc\/g_cdc\[8\].fifo\/rd_rst_n.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[9\].fifo\/wr_gray_rd1\[2\]$_DFF_PN0_/RESETN in net u_digital\/gearbox_cdc\/g_cdc\[9\].fifo\/rd_rst_n.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[230\]$_DFF_PN0_/RESETN in net net170457.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[173\]$_DFF_PN0_/RESETN in net net170457.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[92\]$_DFF_PN0_/RESETN in net net170419.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[125\]$_DFF_PN0_/RESETN in net net170419.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[254\]$_DFF_PN0_/RESETN in net net170418.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[22\]$_DFF_PN0_/RESETN in net net170418.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[203\]$_DFF_PN0_/RESETN in net net170447.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[129\]$_DFF_PN0_/RESETN in net net170447.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[251\]$_DFF_PN0_/RESETN in net net170417.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[197\]$_DFF_PN0_/RESETN in net net170417.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[93\]$_DFF_PN0_/RESETN in net net170410.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[70\]$_DFF_PN0_/RESETN in net net170410.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[34\]$_DFF_PN0_/RESETN in net net170411.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[70\]$_DFF_PN0_/RESETN in net net170384.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[172\]$_DFF_PN0_/RESETN in net net170384.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[2\]\[148\]$_DFF_PN0_/RESETN in net net170314.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[214\]$_DFF_PN0_/RESETN in net net170281.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[118\]$_DFF_PN0_/RESETN in net net170281.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[2\]\[164\]$_DFF_PN0_/RESETN in net net170316.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[68\]$_DFF_PN0_/RESETN in net net170279.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[35\]$_DFF_PN0_/RESETN in net net170274.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[96\]$_DFF_PN0_/RESETN in net net170278.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[103\]$_DFF_PN0_/RESETN in net net170244.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[31\]\[4\]$_DFF_PN0_/RESETN in net net170260.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[139\]$_DFF_PN0_/RESETN in net net170253.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[82\]$_DFF_PN0_/RESETN in net net170266.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[142\]$_DFF_PN0_/RESETN in net net170287.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/count\[30\]\[2\]$_DFFE_PN0P_/RESETN in net net170287.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[116\]$_DFF_PN0_/RESETN in net net170247.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[81\]$_DFF_PN0_/RESETN in net net170250.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[40\]$_DFF_PN0_/RESETN in net net170250.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[112\]$_DFF_PN0_/RESETN in net net170250.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[107\]$_DFF_PN0_/RESETN in net net170249.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[31\]$_DFF_PN0_/RESETN in net net170246.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[88\]$_DFF_PN0_/RESETN in net net170254.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[171\]$_DFF_PN0_/RESETN in net net170254.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[114\]$_DFF_PN0_/RESETN in net net170254.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[108\]$_DFF_PN0_/RESETN in net net170264.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[40\]$_DFF_PN0_/RESETN in net net170212.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[69\]$_DFF_PN0_/RESETN in net net170208.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[74\]$_DFF_PN0_/RESETN in net net170207.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[202\]$_DFF_PN0_/RESETN in net net170199.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[115\]$_DFF_PN0_/RESETN in net net170206.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[62\]$_DFF_PN0_/RESETN in net net170180.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[46\]$_DFF_PN0_/RESETN in net net170180.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[44\]$_DFF_PN0_/RESETN in net net170180.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[220\]$_DFF_PN0_/RESETN in net net170180.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[17\]$_DFF_PN0_/RESETN in net net170179.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[24\]$_DFF_PN0_/RESETN in net net170183.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[226\]$_DFF_PN0_/RESETN in net net170183.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[219\]$_DFF_PN0_/RESETN in net net170183.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[77\]$_DFF_PN0_/RESETN in net net170178.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[234\]$_DFF_PN0_/RESETN in net net170178.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[212\]$_DFF_PN0_/RESETN in net net170178.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[171\]$_DFF_PN0_/RESETN in net net170182.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[107\]$_DFF_PN0_/RESETN in net net170182.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[92\]$_DFF_PN0_/RESETN in net net170181.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[30\]$_DFF_PN0_/RESETN in net net170181.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[230\]$_DFF_PN0_/RESETN in net net170181.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[175\]$_DFF_PN0_/RESETN in net net170181.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[126\]$_DFF_PN0_/RESETN in net net170181.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[123\]$_DFF_PN0_/RESETN in net net170181.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[246\]$_DFF_PN0_/RESETN in net net170152.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[151\]$_DFF_PN0_/RESETN in net net170152.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[93\]$_DFF_PN0_/RESETN in net net170164.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[74\]$_DFF_PN0_/RESETN in net net170164.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[172\]$_DFF_PN0_/RESETN in net net170164.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[59\]$_DFF_PN0_/RESETN in net net170124.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[93\]$_DFF_PN0_/RESETN in net net170123.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[234\]$_DFF_PN0_/RESETN in net net170123.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[136\]$_DFF_PN0_/RESETN in net net170123.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[60\]$_DFF_PN0_/RESETN in net net170120.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[43\]$_DFF_PN0_/RESETN in net net170120.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[235\]$_DFF_PN0_/RESETN in net net170120.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[245\]$_DFF_PN0_/RESETN in net net170134.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[154\]$_DFF_PN0_/RESETN in net net170134.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[145\]$_DFF_PN0_/RESETN in net net170125.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[73\]$_DFF_PN0_/RESETN in net net170095.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[234\]$_DFF_PN0_/RESETN in net net170086.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[36\]$_DFF_PN0_/RESETN in net net170048.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[116\]$_DFF_PN0_/RESETN in net net170048.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[111\]$_DFF_PN0_/RESETN in net net170048.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[79\]$_DFF_PN0_/RESETN in net net170047.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[77\]$_DFF_PN0_/RESETN in net net170047.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[149\]$_DFF_PN0_/RESETN in net net170047.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[9\]\[34\]$_DFF_PN0_/RESETN in net net170014.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[195\]$_DFF_PN0_/RESETN in net net170017.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[108\]$_DFF_PN0_/RESETN in net net170017.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[194\]$_DFF_PN0_/RESETN in net net170016.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[189\]$_DFF_PN0_/RESETN in net net170011.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[67\]$_DFF_PN0_/RESETN in net net170024.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[172\]$_DFF_PN0_/RESETN in net net170024.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[113\]$_DFF_PN0_/RESETN in net net170024.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[9\]\[4\]$_DFF_PN0_/RESETN in net net170021.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[84\]$_DFF_PN0_/RESETN in net net170015.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[245\]$_DFF_PN0_/RESETN in net net170015.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[251\]$_DFF_PN0_/RESETN in net net170027.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[38\]$_DFF_PN0_/RESETN in net net170026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[30\]$_DFF_PN0_/RESETN in net net170026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[230\]$_DFF_PN0_/RESETN in net net170026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[12\]$_DFF_PN0_/RESETN in net net170026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[9\]\[17\]$_DFF_PN0_/RESETN in net net170025.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[231\]$_DFF_PN0_/RESETN in net net170076.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[183\]$_DFF_PN0_/RESETN in net net170076.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[152\]$_DFF_PN0_/RESETN in net net170075.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[148\]$_DFF_PN0_/RESETN in net net170075.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[8\]\[23\]$_DFF_PN0_/RESETN in net net170073.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[8\]\[1\]$_DFF_PN0_/RESETN in net net170081.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[8\]\[34\]$_DFF_PN0_/RESETN in net net170074.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[8\]\[13\]$_DFF_PN0_/RESETN in net net170074.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[43\]$_DFF_PN0_/RESETN in net net170088.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[233\]$_DFF_PN0_/RESETN in net net170088.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[216\]$_DFF_PN0_/RESETN in net net170088.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[114\]$_DFF_PN0_/RESETN in net net170088.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[7\]$_DFF_PN0_/RESETN in net net170105.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[229\]$_DFF_PN0_/RESETN in net net170104.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[181\]$_DFF_PN0_/RESETN in net net170104.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[7\]\[31\]$_DFF_PN0_/RESETN in net net170102.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[41\]$_DFF_PN0_/RESETN in net net170089.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[219\]$_DFF_PN0_/RESETN in net net170089.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[32\]$_DFF_PN0_/RESETN in net net170087.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[7\]\[30\]$_DFF_PN0_/RESETN in net net170087.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[55\]$_DFF_PN0_/RESETN in net net170133.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[53\]$_DFF_PN0_/RESETN in net net170133.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[41\]$_DFF_PN0_/RESETN in net net170119.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[169\]$_DFF_PN0_/RESETN in net net170119.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[112\]$_DFF_PN0_/RESETN in net net170119.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[92\]$_DFF_PN0_/RESETN in net net170118.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[6\]\[21\]$_DFF_PN0_/RESETN in net net170118.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[194\]$_DFF_PN0_/RESETN in net net170160.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[59\]$_DFF_PN0_/RESETN in net net170171.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[27\]$_DFF_PN0_/RESETN in net net170171.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[224\]$_DFF_PN0_/RESETN in net net170171.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[88\]$_DFF_PN0_/RESETN in net net170169.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[60\]$_DFF_PN0_/RESETN in net net170169.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[169\]$_DFF_PN0_/RESETN in net net170169.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[114\]$_DFF_PN0_/RESETN in net net170169.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[109\]$_DFF_PN0_/RESETN in net net170169.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[30\]$_DFF_PN0_/RESETN in net net170167.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[113\]$_DFF_PN0_/RESETN in net net170166.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[245\]$_DFF_PN0_/RESETN in net net170156.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[206\]$_DFF_PN0_/RESETN in net net170156.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[5\]\[183\]$_DFF_PN0_/RESETN in net net170156.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[57\]$_DFF_PN0_/RESETN in net net170201.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[4\]\[67\]$_DFF_PN0_/RESETN in net net170188.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[68\]$_DFF_PN0_/RESETN in net net170214.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[172\]$_DFF_PN0_/RESETN in net net170213.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[120\]$_DFF_PN0_/RESETN in net net170213.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[57\]$_DFF_PN0_/RESETN in net net170232.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[160\]$_DFF_PN0_/RESETN in net net170235.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[195\]$_DFF_PN0_/RESETN in net net170226.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[3\]\[34\]$_DFF_PN0_/RESETN in net net170226.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[3\]\[12\]$_DFF_PN0_/RESETN in net net170226.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[3\]\[107\]$_DFF_PN0_/RESETN in net net170211.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[192\]$_DFF_PN0_/RESETN in net net170268.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[31\]\[168\]$_DFF_PN0_/RESETN in net net170268.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[31\]\[24\]$_DFF_PN0_/RESETN in net net170262.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[148\]$_DFF_PN0_/RESETN in net net170298.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[131\]$_DFF_PN0_/RESETN in net net170298.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[244\]$_DFF_PN0_/RESETN in net net170286.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[135\]$_DFF_PN0_/RESETN in net net170286.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[30\]\[18\]$_DFF_PN0_/RESETN in net net170290.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[30\]\[153\]$_DFF_PN0_/RESETN in net net170291.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[2\]\[238\]$_DFF_PN0_/RESETN in net net170327.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[2\]\[117\]$_DFF_PN0_/RESETN in net net170327.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[2\]\[176\]$_DFF_PN0_/RESETN in net net170320.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[2\]\[17\]$_DFF_PN0_/RESETN in net net170312.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[2\]\[18\]$_DFF_PN0_/RESETN in net net170310.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[2\]\[0\]$_DFF_PN0_/RESETN in net net170306.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[29\]\[0\]$_DFF_PN0_/RESETN in net net170360.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[28\]$_DFF_PN0_/RESETN in net net170362.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[23\]$_DFF_PN0_/RESETN in net net170362.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[14\]$_DFF_PN0_/RESETN in net net170362.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[107\]$_DFF_PN0_/RESETN in net net170367.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[220\]$_DFF_PN0_/RESETN in net net170365.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[10\]$_DFF_PN0_/RESETN in net net170365.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[236\]$_DFF_PN0_/RESETN in net net170364.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[173\]$_DFF_PN0_/RESETN in net net170364.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[67\]$_DFF_PN0_/RESETN in net net170371.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[51\]$_DFF_PN0_/RESETN in net net170354.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[29\]\[31\]$_DFF_PN0_/RESETN in net net170349.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[138\]$_DFF_PN0_/RESETN in net net170356.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[186\]$_DFF_PN0_/RESETN in net net170355.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[29\]\[159\]$_DFF_PN0_/RESETN in net net170348.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[47\]$_DFF_PN0_/RESETN in net net170380.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[126\]$_DFF_PN0_/RESETN in net net170380.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[192\]$_DFF_PN0_/RESETN in net net170398.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[188\]$_DFF_PN0_/RESETN in net net170398.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[155\]$_DFF_PN0_/RESETN in net net170397.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[131\]$_DFF_PN0_/RESETN in net net170397.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[85\]$_DFF_PN0_/RESETN in net net170379.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[28\]\[230\]$_DFF_PN0_/RESETN in net net170379.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[84\]$_DFF_PN0_/RESETN in net net170432.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[27\]\[48\]$_DFF_PN0_/RESETN in net net170432.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[27\]\[22\]$_DFF_PN0_/RESETN in net net170431.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[27\]\[26\]$_DFF_PN0_/RESETN in net net170430.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[56\]$_DFF_PN0_/RESETN in net net170461.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[226\]$_DFF_PN0_/RESETN in net net170461.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[217\]$_DFF_PN0_/RESETN in net net170461.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[112\]$_DFF_PN0_/RESETN in net net170461.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[26\]$_DFF_PN0_/RESETN in net net170460.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[216\]$_DFF_PN0_/RESETN in net net170460.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[107\]$_DFF_PN0_/RESETN in net net170460.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[96\]$_DFF_PN0_/RESETN in net net170464.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[26\]\[72\]$_DFF_PN0_/RESETN in net net170464.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[255\]$_DFF_PN0_/RESETN in net net170485.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[73\]$_DFF_PN0_/RESETN in net net170490.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[70\]$_DFF_PN0_/RESETN in net net170490.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[141\]$_DFF_PN0_/RESETN in net net170490.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[232\]$_DFF_PN0_/RESETN in net net170493.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[3\]$_DFF_PN0_/RESETN in net net170492.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[139\]$_DFF_PN0_/RESETN in net net170492.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[25\]\[29\]$_DFF_PN0_/RESETN in net net170473.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[25\]\[31\]$_DFF_PN0_/RESETN in net net170475.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[157\]$_DFF_PN0_/RESETN in net net170477.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[25\]\[135\]$_DFF_PN0_/RESETN in net net170472.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[24\]\[215\]$_DFF_PN0_/RESETN in net net170528.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[24\]\[97\]$_DFF_PN0_/RESETN in net net170536.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[24\]\[210\]$_DFF_PN0_/RESETN in net net170536.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[24\]\[172\]$_DFF_PN0_/RESETN in net net170536.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[24\]\[101\]$_DFF_PN0_/RESETN in net net170536.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[24\]\[4\]$_DFF_PN0_/RESETN in net net170508.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[24\]\[48\]$_DFF_PN0_/RESETN in net net170520.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[23\]\[210\]$_DFF_PN0_/RESETN in net net170548.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[23\]\[154\]$_DFF_PN0_/RESETN in net net170560.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[23\]\[6\]$_DFF_PN0_/RESETN in net net170559.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[23\]\[12\]$_DFF_PN0_/RESETN in net net170542.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[23\]\[235\]$_DFF_PN0_/RESETN in net net170544.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[23\]\[34\]$_DFF_PN0_/RESETN in net net170545.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[23\]\[26\]$_DFF_PN0_/RESETN in net net170545.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[23\]\[105\]$_DFF_PN0_/RESETN in net net170545.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[45\]$_DFF_PN0_/RESETN in net net170581.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[10\]$_DFF_PN0_/RESETN in net net170581.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[103\]$_DFF_PN0_/RESETN in net net170581.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[31\]$_DFF_PN0_/RESETN in net net170573.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[19\]$_DFF_PN0_/RESETN in net net170573.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[22\]\[30\]$_DFF_PN0_/RESETN in net net170593.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[241\]$_DFF_PN0_/RESETN in net net170577.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[87\]$_DFF_PN0_/RESETN in net net170583.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[107\]$_DFF_PN0_/RESETN in net net170583.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[144\]$_DFF_PN0_/RESETN in net net170586.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[22\]\[60\]$_DFF_PN0_/RESETN in net net170584.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[21\]\[29\]$_DFF_PN0_/RESETN in net net170618.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[21\]\[7\]$_DFF_PN0_/RESETN in net net170616.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[21\]\[29\]$_DFF_PN0_/RESETN in net net170615.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[21\]\[45\]$_DFF_PN0_/RESETN in net net170609.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[21\]\[236\]$_DFF_PN0_/RESETN in net net170610.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[21\]\[169\]$_DFF_PN0_/RESETN in net net170629.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[21\]\[25\]$_DFF_PN0_/RESETN in net net170632.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[20\]\[213\]$_DFF_PN0_/RESETN in net net170645.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[20\]\[156\]$_DFF_PN0_/RESETN in net net170645.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[20\]\[77\]$_DFF_PN0_/RESETN in net net170640.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[20\]\[85\]$_DFF_PN0_/RESETN in net net170649.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[164\]$_DFF_PN0_/RESETN in net net170683.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[1\]\[32\]$_DFF_PN0_/RESETN in net net170672.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[57\]$_DFF_PN0_/RESETN in net net170679.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[181\]$_DFF_PN0_/RESETN in net net170679.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[148\]$_DFF_PN0_/RESETN in net net170676.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[183\]$_DFF_PN0_/RESETN in net net170675.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[66\]$_DFF_PN0_/RESETN in net net170717.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[15\]$_DFF_PN0_/RESETN in net net170717.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[19\]\[17\]$_DFF_PN0_/RESETN in net net170731.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[19\]\[8\]$_DFF_PN0_/RESETN in net net170730.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[252\]$_DFF_PN0_/RESETN in net net170728.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[214\]$_DFF_PN0_/RESETN in net net170708.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[87\]$_DFF_PN0_/RESETN in net net170710.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[234\]$_DFF_PN0_/RESETN in net net170723.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[19\]$_DFF_PN0_/RESETN in net net170712.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[92\]$_DFF_PN0_/RESETN in net net170711.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[18\]\[188\]$_DFF_PN0_/RESETN in net net170753.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[18\]\[16\]$_DFF_PN0_/RESETN in net net170753.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[18\]\[83\]$_DFF_PN0_/RESETN in net net170746.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[18\]\[42\]$_DFF_PN0_/RESETN in net net170746.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[18\]\[217\]$_DFF_PN0_/RESETN in net net170746.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[18\]\[32\]$_DFF_PN0_/RESETN in net net170750.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[82\]$_DFF_PN0_/RESETN in net net170795.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[153\]$_DFF_PN0_/RESETN in net net170795.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[112\]$_DFF_PN0_/RESETN in net net170784.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[50\]$_DFF_PN0_/RESETN in net net170791.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[250\]$_DFF_PN0_/RESETN in net net170791.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[186\]$_DFF_PN0_/RESETN in net net170791.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[2\]$_DFF_PN0_/RESETN in net net170794.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[22\]$_DFF_PN0_/RESETN in net net170794.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[195\]$_DFF_PN0_/RESETN in net net170790.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[17\]\[24\]$_DFF_PN0_/RESETN in net net170793.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[17\]\[14\]$_DFF_PN0_/RESETN in net net170793.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[17\]\[11\]$_DFF_PN0_/RESETN in net net170793.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[17\]\[1\]$_DFF_PN0_/RESETN in net net170778.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[214\]$_DFF_PN0_/RESETN in net net170777.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[17\]\[2\]$_DFF_PN0_/RESETN in net net170779.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[90\]$_DFF_PN0_/RESETN in net net170781.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[21\]$_DFF_PN0_/RESETN in net net170781.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[10\]$_DFF_PN0_/RESETN in net net170781.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[68\]$_DFF_PN0_/RESETN in net net170787.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[17\]\[0\]$_DFF_PN0_/RESETN in net net170787.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[187\]$_DFF_PN0_/RESETN in net net170814.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[194\]$_DFF_PN0_/RESETN in net net170811.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[163\]$_DFF_PN0_/RESETN in net net170817.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[128\]$_DFF_PN0_/RESETN in net net170812.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[237\]$_DFF_PN0_/RESETN in net net170825.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[126\]$_DFF_PN0_/RESETN in net net170825.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[118\]$_DFF_PN0_/RESETN in net net170825.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[228\]$_DFF_PN0_/RESETN in net net170824.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[16\]\[14\]$_DFF_PN0_/RESETN in net net170815.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[16\]\[11\]$_DFF_PN0_/RESETN in net net170815.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[16\]\[213\]$_DFF_PN0_/RESETN in net net170820.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[16\]\[6\]$_DFF_PN0_/RESETN in net net170807.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[16\]\[1\]$_DFF_PN0_/RESETN in net net170805.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[221\]$_DFF_PN0_/RESETN in net net170858.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[217\]$_DFF_PN0_/RESETN in net net170858.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[53\]$_DFF_PN0_/RESETN in net net170866.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[202\]$_DFF_PN0_/RESETN in net net170866.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[186\]$_DFF_PN0_/RESETN in net net170866.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[128\]$_DFF_PN0_/RESETN in net net170866.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[85\]$_DFF_PN0_/RESETN in net net170856.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[17\]$_DFF_PN0_/RESETN in net net170856.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[24\]$_DFF_PN0_/RESETN in net net170857.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[69\]$_DFF_PN0_/RESETN in net net170861.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[94\]$_DFF_PN0_/RESETN in net net170855.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[38\]$_DFF_PN0_/RESETN in net net170855.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[126\]$_DFF_PN0_/RESETN in net net170855.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[214\]$_DFF_PN0_/RESETN in net net170854.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[159\]$_DFF_PN0_/RESETN in net net170891.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[14\]\[29\]$_DFF_PN0_/RESETN in net net170891.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[7\]$_DFF_PN0_/RESETN in net net170892.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[154\]$_DFF_PN0_/RESETN in net net170892.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[85\]$_DFF_PN0_/RESETN in net net170899.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[77\]$_DFF_PN0_/RESETN in net net170898.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[14\]\[5\]$_DFF_PN0_/RESETN in net net170895.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[34\]$_DFF_PN0_/RESETN in net net170900.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[188\]$_DFF_PN0_/RESETN in net net170916.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[164\]$_DFF_PN0_/RESETN in net net170919.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[98\]$_DFF_PN0_/RESETN in net net170902.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[62\]$_DFF_PN0_/RESETN in net net170943.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[13\]\[31\]$_DFF_PN0_/RESETN in net net170938.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[13\]\[26\]$_DFF_PN0_/RESETN in net net170938.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[102\]$_DFF_PN0_/RESETN in net net170942.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[224\]$_DFF_PN0_/RESETN in net net170955.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[13\]\[6\]$_DFF_PN0_/RESETN in net net170929.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[57\]$_DFF_PN0_/RESETN in net net170936.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[186\]$_DFF_PN0_/RESETN in net net170936.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[16\]$_DFF_PN0_/RESETN in net net170936.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[206\]$_DFF_PN0_/RESETN in net net170940.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[13\]\[13\]$_DFF_PN0_/RESETN in net net170940.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[85\]$_DFF_PN0_/RESETN in net net170944.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[235\]$_DFF_PN0_/RESETN in net net170944.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[13\]\[56\]$_DFF_PN0_/RESETN in net net170946.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[12\]\[8\]$_DFF_PN0_/RESETN in net net170983.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[12\]\[14\]$_DFF_PN0_/RESETN in net net170983.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[67\]$_DFF_PN0_/RESETN in net net170970.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[42\]$_DFF_PN0_/RESETN in net net170964.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[41\]$_DFF_PN0_/RESETN in net net170964.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[169\]$_DFF_PN0_/RESETN in net net170964.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[92\]$_DFF_PN0_/RESETN in net net170962.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[38\]$_DFF_PN0_/RESETN in net net170962.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[36\]$_DFF_PN0_/RESETN in net net170962.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[228\]$_DFF_PN0_/RESETN in net net170961.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[131\]$_DFF_PN0_/RESETN in net net170986.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[93\]$_DFF_PN0_/RESETN in net net170960.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[79\]$_DFF_PN0_/RESETN in net net170960.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[113\]$_DFF_PN0_/RESETN in net net170960.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[12\]\[25\]$_DFF_PN0_/RESETN in net net170982.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[94\]$_DFF_PN0_/RESETN in net net170996.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[237\]$_DFF_PN0_/RESETN in net net170996.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[222\]$_DFF_PN0_/RESETN in net net170996.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[175\]$_DFF_PN0_/RESETN in net net170996.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[124\]$_DFF_PN0_/RESETN in net net170996.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[116\]$_DFF_PN0_/RESETN in net net170996.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[133\]$_DFF_PN0_/RESETN in net net171013.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[87\]$_DFF_PN0_/RESETN in net net170998.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[233\]$_DFF_PN0_/RESETN in net net170998.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[10\]$_DFF_PN0_/RESETN in net net170998.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[202\]$_DFF_PN0_/RESETN in net net171016.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[213\]$_DFF_PN0_/RESETN in net net171012.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[11\]\[34\]$_DFF_PN0_/RESETN in net net171015.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[11\]\[17\]$_DFF_PN0_/RESETN in net net171015.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[11\]\[11\]$_DFF_PN0_/RESETN in net net171015.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[229\]$_DFF_PN0_/RESETN in net net171018.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[204\]$_DFF_PN0_/RESETN in net net171018.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[11\]\[25\]$_DFF_PN0_/RESETN in net net171014.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[79\]$_DFF_PN0_/RESETN in net net170995.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[58\]$_DFF_PN0_/RESETN in net net170997.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[42\]$_DFF_PN0_/RESETN in net net170997.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[24\]$_DFF_PN0_/RESETN in net net170997.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[226\]$_DFF_PN0_/RESETN in net net170997.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[219\]$_DFF_PN0_/RESETN in net net170997.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[112\]$_DFF_PN0_/RESETN in net net170997.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[105\]$_DFF_PN0_/RESETN in net net170997.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[75\]$_DFF_PN0_/RESETN in net net170994.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[10\]\[5\]$_DFF_PN0_/RESETN in net net171041.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[183\]$_DFF_PN0_/RESETN in net net171048.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[10\]\[34\]$_DFF_PN0_/RESETN in net net171047.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[10\]\[16\]$_DFF_PN0_/RESETN in net net171047.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[10\]\[28\]$_DFF_PN0_/RESETN in net net171046.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[193\]$_DFF_PN0_/RESETN in net net171031.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[152\]$_DFF_PN0_/RESETN in net net171031.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[58\]$_DFF_PN0_/RESETN in net net171028.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[24\]$_DFF_PN0_/RESETN in net net171028.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[217\]$_DFF_PN0_/RESETN in net net171028.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[105\]$_DFF_PN0_/RESETN in net net171028.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[87\]$_DFF_PN0_/RESETN in net net171027.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[171\]$_DFF_PN0_/RESETN in net net171027.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[92\]$_DFF_PN0_/RESETN in net net171026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[38\]$_DFF_PN0_/RESETN in net net171026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[30\]$_DFF_PN0_/RESETN in net net171026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[124\]$_DFF_PN0_/RESETN in net net171026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[123\]$_DFF_PN0_/RESETN in net net171026.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[76\]$_DFF_PN0_/RESETN in net net171025.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[191\]$_DFF_PN0_/RESETN in net net171056.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[172\]$_DFF_PN0_/RESETN in net net171072.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[239\]$_DFF_PN0_/RESETN in net net171057.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[109\]$_DFF_PN0_/RESETN in net net171069.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[111\]$_DFF_PN0_/RESETN in net net171067.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[43\]$_DFF_PN0_/RESETN in net net171068.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[24\]$_DFF_PN0_/RESETN in net net171068.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[105\]$_DFF_PN0_/RESETN in net net171068.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[55\]$_DFF_PN0_/RESETN in net net171081.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[74\]$_DFF_PN0_/RESETN in net net171073.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[147\]$_DFF_PN0_/RESETN in net net171073.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5498\]$_DFFE_PN0P_/RESETN in net net171102.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5414\]$_DFFE_PN0P_/RESETN in net net171102.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5387\]$_DFFE_PN0P_/RESETN in net net171102.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5546\]$_DFFE_PN0P_/RESETN in net net171093.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5537\]$_DFFE_PN0P_/RESETN in net net171093.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5535\]$_DFFE_PN0P_/RESETN in net net171093.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5528\]$_DFFE_PN0P_/RESETN in net net171093.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5515\]$_DFFE_PN0P_/RESETN in net net171093.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4941\]$_DFFE_PN0P_/RESETN in net net171141.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5347\]$_DFFE_PN0P_/RESETN in net net171106.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5269\]$_DFFE_PN0P_/RESETN in net net171106.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5267\]$_DFFE_PN0P_/RESETN in net net171106.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[9\].fifo\/wr_bin\[1\]$_DFF_PN0_/RESETN in net net171108.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4707\]$_DFFE_PN0P_/RESETN in net net171128.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4706\]$_DFFE_PN0P_/RESETN in net net171120.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4781\]$_DFFE_PN0P_/RESETN in net net171124.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4736\]$_DFFE_PN0P_/RESETN in net net171116.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4754\]$_DFFE_PN0P_/RESETN in net net171137.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4794\]$_DFFE_PN0P_/RESETN in net net171115.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4768\]$_DFFE_PN0P_/RESETN in net net171115.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4705\]$_DFFE_PN0P_/RESETN in net net171115.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4690\]$_DFFE_PN0P_/RESETN in net net171119.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4825\]$_DFFE_PN0P_/RESETN in net net171111.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[8\].fifo\/wr_gray\[2\]$_DFF_PN0_/RESETN in net net171132.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4295\]$_DFFE_PN0P_/RESETN in net net171155.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4249\]$_DFFE_PN0P_/RESETN in net net171143.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4300\]$_DFFE_PN0P_/RESETN in net net171150.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4177\]$_DFFE_PN0P_/RESETN in net net171151.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4152\]$_DFFE_PN0P_/RESETN in net net171151.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4151\]$_DFFE_PN0P_/RESETN in net net171151.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4100\]$_DFFE_PN0P_/RESETN in net net171146.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4339\]$_DFFE_PN0P_/RESETN in net net171145.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4257\]$_DFFE_PN0P_/RESETN in net net171149.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4310\]$_DFFE_PN0P_/RESETN in net net171148.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3742\]$_DFFE_PN0P_/RESETN in net net171165.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3740\]$_DFFE_PN0P_/RESETN in net net171165.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3705\]$_DFFE_PN0P_/RESETN in net net171160.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3652\]$_DFFE_PN0P_/RESETN in net net171160.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3555\]$_DFFE_PN0P_/RESETN in net net171160.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3683\]$_DFFE_PN0P_/RESETN in net net171173.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3523\]$_DFFE_PN0P_/RESETN in net net171168.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[6\].fifo\/rd_gray_wr2\[1\]$_DFF_PN0_/RESETN in net net171174.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3663\]$_DFFE_PN0P_/RESETN in net net171174.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3782\]$_DFFE_PN0P_/RESETN in net net171171.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3765\]$_DFFE_PN0P_/RESETN in net net171171.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3715\]$_DFFE_PN0P_/RESETN in net net171163.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3724\]$_DFFE_PN0P_/RESETN in net net171166.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3067\]$_DFFE_PN0P_/RESETN in net net171177.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2996\]$_DFFE_PN0P_/RESETN in net net171177.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3070\]$_DFFE_PN0P_/RESETN in net net171185.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2951\]$_DFFE_PN0P_/RESETN in net net171185.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3188\]$_DFFE_PN0P_/RESETN in net net171189.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3186\]$_DFFE_PN0P_/RESETN in net net171189.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3079\]$_DFFE_PN0P_/RESETN in net net171181.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3081\]$_DFFE_PN0P_/RESETN in net net171187.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3076\]$_DFFE_PN0P_/RESETN in net net171187.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3108\]$_DFFE_PN0P_/RESETN in net net171182.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3063\]$_DFFE_PN0P_/RESETN in net net171184.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[3046\]$_DFFE_PN0P_/RESETN in net net171180.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2990\]$_DFFE_PN0P_/RESETN in net net171193.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2546\]$_DFFE_PN0P_/RESETN in net net171205.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2403\]$_DFFE_PN0P_/RESETN in net net171200.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2529\]$_DFFE_PN0P_/RESETN in net net171202.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2459\]$_DFFE_PN0P_/RESETN in net net171196.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2372\]$_DFFE_PN0P_/RESETN in net net171196.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2359\]$_DFFE_PN0P_/RESETN in net net171195.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2364\]$_DFFE_PN0P_/RESETN in net net171197.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2501\]$_DFFE_PN0P_/RESETN in net net171203.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2474\]$_DFFE_PN0P_/RESETN in net net171203.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2390\]$_DFFE_PN0P_/RESETN in net net171203.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2476\]$_DFFE_PN0P_/RESETN in net net171201.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2451\]$_DFFE_PN0P_/RESETN in net net171201.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2577\]$_DFFE_PN0P_/RESETN in net net171208.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2618\]$_DFFE_PN0P_/RESETN in net net171207.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2442\]$_DFFE_PN0P_/RESETN in net net171209.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[4\].fifo\/rd_gray_wr2\[0\]$_DFF_PN0_/RESETN in net net171210.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2491\]$_DFFE_PN0P_/RESETN in net net171210.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1896\]$_DFFE_PN0P_/RESETN in net net171217.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1811\]$_DFFE_PN0P_/RESETN in net net171217.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1766\]$_DFFE_PN0P_/RESETN in net net171220.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1883\]$_DFFE_PN0P_/RESETN in net net171216.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1801\]$_DFFE_PN0P_/RESETN in net net171216.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1892\]$_DFFE_PN0P_/RESETN in net net171214.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1946\]$_DFFE_PN0P_/RESETN in net net171215.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1857\]$_DFFE_PN0P_/RESETN in net net171223.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1810\]$_DFFE_PN0P_/RESETN in net net171223.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1808\]$_DFFE_PN0P_/RESETN in net net171223.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1987\]$_DFFE_PN0P_/RESETN in net net171222.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1835\]$_DFFE_PN0P_/RESETN in net net171224.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1798\]$_DFFE_PN0P_/RESETN in net net171224.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1972\]$_DFFE_PN0P_/RESETN in net net171226.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2036\]$_DFFE_PN0P_/RESETN in net net171227.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2019\]$_DFFE_PN0P_/RESETN in net net171227.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[2018\]$_DFFE_PN0P_/RESETN in net net171227.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[3\].fifo\/rd_gray_wr1\[0\]$_DFF_PN0_/RESETN in net net171231.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1253\]$_DFFE_PN0P_/RESETN in net net171240.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1234\]$_DFFE_PN0P_/RESETN in net net171235.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1179\]$_DFFE_PN0P_/RESETN in net net171235.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1177\]$_DFFE_PN0P_/RESETN in net net171235.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1359\]$_DFFE_PN0P_/RESETN in net net171248.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1207\]$_DFFE_PN0P_/RESETN in net net171247.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1437\]$_DFFE_PN0P_/RESETN in net net171250.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1432\]$_DFFE_PN0P_/RESETN in net net171250.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1264\]$_DFFE_PN0P_/RESETN in net net171242.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1186\]$_DFFE_PN0P_/RESETN in net net171242.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1175\]$_DFFE_PN0P_/RESETN in net net171243.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1171\]$_DFFE_PN0P_/RESETN in net net171243.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1362\]$_DFFE_PN0P_/RESETN in net net171245.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[630\]$_DFFE_PN0P_/RESETN in net net171263.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[733\]$_DFFE_PN0P_/RESETN in net net171258.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[591\]$_DFFE_PN0P_/RESETN in net net171258.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[756\]$_DFFE_PN0P_/RESETN in net net171257.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[870\]$_DFFE_PN0P_/RESETN in net net171260.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[861\]$_DFFE_PN0P_/RESETN in net net171260.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[845\]$_DFFE_PN0P_/RESETN in net net171260.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[677\]$_DFFE_PN0P_/RESETN in net net171259.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[831\]$_DFFE_PN0P_/RESETN in net net171269.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[802\]$_DFFE_PN0P_/RESETN in net net171265.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[755\]$_DFFE_PN0P_/RESETN in net net171265.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[1\].fifo\/wr_gray\[1\]$_DFF_PN0_/RESETN in net net171270.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8993\]$_DFFE_PN0P_/RESETN in net net171275.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8954\]$_DFFE_PN0P_/RESETN in net net171272.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[9027\]$_DFFE_PN0P_/RESETN in net net171271.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[9023\]$_DFFE_PN0P_/RESETN in net net171271.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8892\]$_DFFE_PN0P_/RESETN in net net171285.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8976\]$_DFFE_PN0P_/RESETN in net net171278.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8803\]$_DFFE_PN0P_/RESETN in net net171278.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8871\]$_DFFE_PN0P_/RESETN in net net171277.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8771\]$_DFFE_PN0P_/RESETN in net net171283.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8972\]$_DFFE_PN0P_/RESETN in net net171282.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8885\]$_DFFE_PN0P_/RESETN in net net171280.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[15\].fifo\/rd_gray_wr2\[2\]$_DFF_PN0_/RESETN in net net171287.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8285\]$_DFFE_PN0P_/RESETN in net net171291.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8261\]$_DFFE_PN0P_/RESETN in net net171291.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8234\]$_DFFE_PN0P_/RESETN in net net171291.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8352\]$_DFFE_PN0P_/RESETN in net net171294.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8464\]$_DFFE_PN0P_/RESETN in net net171297.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8258\]$_DFFE_PN0P_/RESETN in net net171297.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8381\]$_DFFE_PN0P_/RESETN in net net171296.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8215\]$_DFFE_PN0P_/RESETN in net net171296.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[14\].fifo\/wr_bin\[0\]$_DFF_PN0_/RESETN in net net171301.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8365\]$_DFFE_PN0P_/RESETN in net net171301.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[14\].fifo\/wr_bin\[2\]$_DFF_PN0_/RESETN in net net171300.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8324\]$_DFFE_PN0P_/RESETN in net net171300.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8331\]$_DFFE_PN0P_/RESETN in net net171299.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8295\]$_DFFE_PN0P_/RESETN in net net171295.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7761\]$_DFFE_PN0P_/RESETN in net net171316.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7704\]$_DFFE_PN0P_/RESETN in net net171316.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7844\]$_DFFE_PN0P_/RESETN in net net171313.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7773\]$_DFFE_PN0P_/RESETN in net net171312.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7623\]$_DFFE_PN0P_/RESETN in net net171308.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7877\]$_DFFE_PN0P_/RESETN in net net171310.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7294\]$_DFFE_PN0P_/RESETN in net net171327.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7271\]$_DFFE_PN0P_/RESETN in net net171327.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7235\]$_DFFE_PN0P_/RESETN in net net171326.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7114\]$_DFFE_PN0P_/RESETN in net net171326.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7174\]$_DFFE_PN0P_/RESETN in net net171323.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7077\]$_DFFE_PN0P_/RESETN in net net171328.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7226\]$_DFFE_PN0P_/RESETN in net net171333.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7126\]$_DFFE_PN0P_/RESETN in net net171333.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7234\]$_DFFE_PN0P_/RESETN in net net171332.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7139\]$_DFFE_PN0P_/RESETN in net net171335.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[12\].fifo\/rd_gray_wr1\[1\]$_DFF_PN0_/RESETN in net net171336.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6634\]$_DFFE_PN0P_/RESETN in net net171346.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6582\]$_DFFE_PN0P_/RESETN in net net171343.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6651\]$_DFFE_PN0P_/RESETN in net net171353.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6617\]$_DFFE_PN0P_/RESETN in net net171342.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6662\]$_DFFE_PN0P_/RESETN in net net171348.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6639\]$_DFFE_PN0P_/RESETN in net net171341.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6554\]$_DFFE_PN0P_/RESETN in net net171341.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6596\]$_DFFE_PN0P_/RESETN in net net171344.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6609\]$_DFFE_PN0P_/RESETN in net net171355.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6641\]$_DFFE_PN0P_/RESETN in net net171349.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6599\]$_DFFE_PN0P_/RESETN in net net171349.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6507\]$_DFFE_PN0P_/RESETN in net net171349.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5920\]$_DFFE_PN0P_/RESETN in net net171362.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5901\]$_DFFE_PN0P_/RESETN in net net171362.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6082\]$_DFFE_PN0P_/RESETN in net net171359.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5844\]$_DFFE_PN0P_/RESETN in net net171363.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6006\]$_DFFE_PN0P_/RESETN in net net171364.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5985\]$_DFFE_PN0P_/RESETN in net net171364.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5978\]$_DFFE_PN0P_/RESETN in net net171364.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5905\]$_DFFE_PN0P_/RESETN in net net171364.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5900\]$_DFFE_PN0P_/RESETN in net net171368.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5896\]$_DFFE_PN0P_/RESETN in net net171368.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6115\]$_DFFE_PN0P_/RESETN in net net171361.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6105\]$_DFFE_PN0P_/RESETN in net net171361.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[6058\]$_DFFE_PN0P_/RESETN in net net171367.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5958\]$_DFFE_PN0P_/RESETN in net net171367.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5956\]$_DFFE_PN0P_/RESETN in net net171367.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5872\]$_DFFE_PN0P_/RESETN in net net171367.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5848\]$_DFFE_PN0P_/RESETN in net net171369.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[53\]$_DFFE_PN0P_/RESETN in net net171374.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[158\]$_DFFE_PN0P_/RESETN in net net171376.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[101\]$_DFFE_PN0P_/RESETN in net net171378.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[151\]$_DFFE_PN0P_/RESETN in net net171377.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[230\]$_DFFE_PN0P_/RESETN in net net171380.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[112\]$_DFFE_PN0P_/RESETN in net net171380.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[111\]$_DFFE_PN0P_/RESETN in net net171380.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[43\]$_DFFE_PN0P_/RESETN in net net171381.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[34\]$_DFFE_PN0P_/RESETN in net net171381.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[169\]$_DFFE_PN0P_/RESETN in net net171381.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[200\]$_DFFE_PN0P_/RESETN in net net171373.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[16\]$_DFFE_PN0P_/RESETN in net net171373.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[282\]$_DFFE_PN0P_/RESETN in net net171385.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[275\]$_DFFE_PN0P_/RESETN in net net171385.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/rr_ptr\[8\]\[3\]$_DFFE_PN0P_/RESETN in net net174404.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/rr_ptr\[4\]\[2\]$_DFFE_PN0P_/RESETN in net net174404.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[168\]$_DFFE_PN0P_/RESETN in net net174404.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[154\]$_DFFE_PN0P_/RESETN in net net174404.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[405\]$_DFFE_PN0P_/RESETN in net net174400.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[36\]$_DFFE_PN0P_/RESETN in net net174400.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_rstbuf\[14\].u_prb/rst_n_out$_DFF_PN0_/RESETN in net net174373.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/g_qrst\[1\].u_rb/rst_n_out$_DFF_PN0_/RESETN in net net174435.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/g_qrst\[11\].u_rb/rst_n_out$_DFF_PN0_/RESETN in net net174435.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/sel_lane\[5\]\[2\]$_DFFE_PN0P_/RESETN in net net174384.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/rr_ptr\[5\]\[0\]$_DFFE_PN0P_/RESETN in net net174384.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/sel_lane\[10\]\[2\]$_DFFE_PN0P_/RESETN in net net174387.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[415\]$_DFFE_PN0P_/RESETN in net net174393.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[197\]$_DFFE_PN0P_/RESETN in net net174392.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/rr_ptr\[11\]\[0\]$_DFFE_PN0P_/RESETN in net net174391.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/last_bank\[6\]\[0\]$_DFFE_PN0P_/RESETN in net net174391.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[60\]$_DFFE_PN0P_/RESETN in net net174397.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[20\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206097.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[22\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206095.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[11\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206095.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[43\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206067.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[63\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205874.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[32\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205874.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[56\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205807.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[25\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205807.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[23\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205808.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[50\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205809.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[18\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205809.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[16\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205809.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[22\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205810.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[38\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205811.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[30\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205812.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[16\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205812.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[45\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205814.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[31\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205815.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[25\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205815.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[6\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205816.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[11\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205816.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[45\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205887.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[6\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205819.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[60\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205819.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[45\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205819.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[30\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205819.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[52\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205820.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[41\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205890.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[57\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205822.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[57\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205822.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[48\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205823.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[28\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205825.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[6\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205825.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[57\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205825.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[42\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205826.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[50\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205827.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[50\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205827.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[18\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205827.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[48\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205827.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[56\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205829.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[51\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205829.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[39\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205829.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[52\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205902.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[38\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205902.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[7\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205830.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[32\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205830.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[54\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205830.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[50\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205831.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[0\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205831.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[28\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205832.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[24\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205832.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[62\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205832.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[6\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205833.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[16\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205833.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[62\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205834.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[39\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205834.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[54\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205835.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[52\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205836.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[18\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205836.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[60\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205837.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[30\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205837.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[45\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205839.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[23\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205839.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[57\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205842.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[57\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205842.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[23\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205843.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[60\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205844.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[25\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205844.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[51\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205845.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[57\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205846.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[6\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205847.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[10\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205847.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[31\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205847.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[50\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205848.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[55\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205850.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[19\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205850.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[31\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205851.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[30\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205851.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[23\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205851.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[23\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205851.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[52\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205852.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[24\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205853.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[20\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205853.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[51\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205855.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[24\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205856.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[0\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205857.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[6\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205858.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[51\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205859.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[51\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205859.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[38\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205860.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[55\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205861.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[48\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205861.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[32\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205861.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[6\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205862.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[6\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205862.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[36\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205863.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[40\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205865.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[4\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205866.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[34\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205866.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[57\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205867.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[55\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205868.
+[WARNING EST-0026] Missing route to pin g_phy\[1\].u_tx\/g_lane\[42\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205869.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[42\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205871.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[35\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205871.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[22\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205871.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[52\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205994.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[1\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205994.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[3\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205994.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[23\]\[16\]$_DFF_PN0_/RESETN in net net170567.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[22\]\[34\]$_DFF_PN0_/RESETN in net net170600.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[20\]\[176\]$_DFF_PN0_/RESETN in net net170665.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[60\]$_DFF_PN0_/RESETN in net net170700.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[235\]$_DFF_PN0_/RESETN in net net170700.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[32\]$_DFF_PN0_/RESETN in net net170699.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[36\]$_DFF_PN0_/RESETN in net net170698.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[102\]$_DFF_PN0_/RESETN in net net170698.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[41\]$_DFF_PN0_/RESETN in net net170701.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[1\]\[105\]$_DFF_PN0_/RESETN in net net170701.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[19\]\[193\]$_DFF_PN0_/RESETN in net net170735.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[153\]$_DFF_PN0_/RESETN in net net170875.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[145\]$_DFF_PN0_/RESETN in net net170875.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[168\]$_DFF_PN0_/RESETN in net net170880.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[15\]\[59\]$_DFF_PN0_/RESETN in net net170881.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[12\]\[4\]$_DFF_PN0_/RESETN in net net170981.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[151\]$_DFF_PN0_/RESETN in net net170980.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[108\]$_DFF_PN0_/RESETN in net net170987.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[95\]$_DFF_PN0_/RESETN in net net171049.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[86\]$_DFF_PN0_/RESETN in net net171049.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[84\]$_DFF_PN0_/RESETN in net net171049.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[63\]$_DFF_PN0_/RESETN in net net171049.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[231\]$_DFF_PN0_/RESETN in net net171049.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[10\]\[155\]$_DFF_PN0_/RESETN in net net171049.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[204\]$_DFF_PN0_/RESETN in net net171077.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[0\]\[84\]$_DFF_PN0_/RESETN in net net171084.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[527\]$_DFFE_PN0P_/RESETN in net net174414.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[525\]$_DFFE_PN0P_/RESETN in net net174414.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[6\]$_DFFE_PN0P_/RESETN in net net174427.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[4\]$_DFFE_PN0P_/RESETN in net net174427.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[389\]$_DFFE_PN0P_/RESETN in net net174427.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[2\]$_DFFE_PN0P_/RESETN in net net174417.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[307\]$_DFFE_PN0P_/RESETN in net net174416.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[513\]$_DFFE_PN0P_/RESETN in net net174424.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[512\]$_DFFE_PN0P_/RESETN in net net174424.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[551\]$_DFFE_PN0P_/RESETN in net net174418.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[550\]$_DFFE_PN0P_/RESETN in net net174418.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[554\]$_DFFE_PN0P_/RESETN in net net174419.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[552\]$_DFFE_PN0P_/RESETN in net net174419.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/core_addr\[549\]$_DFFE_PN0P_/RESETN in net net174419.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/g_qrst\[22\].u_rb/rst_n_out$_DFF_PN0_/RESETN in net net174434.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[20\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206093.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[35\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206087.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[26\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206086.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[58\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206083.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[33\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206083.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[0\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206082.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[29\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206079.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[29\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206079.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[58\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206078.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[40\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206078.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[21\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206077.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[35\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206076.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[0\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206076.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[12\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206073.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[53\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206071.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[14\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206071.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[1\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206069.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[45\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206068.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[36\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206066.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[36\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206065.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[45\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206064.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[45\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206064.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[27\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206064.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[60\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206063.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[46\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206063.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[58\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206062.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[58\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206062.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[36\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206061.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[27\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206061.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[29\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206061.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[59\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206060.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[53\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206060.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[45\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206060.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[13\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206059.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[21\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206058.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[60\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206058.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[59\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206057.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[47\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206057.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[8\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206056.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[61\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206055.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[34\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206055.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[2\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206055.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[3\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206054.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[12\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206054.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[49\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206053.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[35\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206053.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[11\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206052.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[38\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206052.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[57\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206050.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[28\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206050.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[25\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206050.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[25\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206050.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[23\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206050.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[23\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206050.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[7\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206048.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[30\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206048.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[55\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206047.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[9\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206045.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[31\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206044.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[29\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206044.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[9\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206041.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[34\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206041.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[15\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206041.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[46\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206040.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[50\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206040.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[36\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206039.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[36\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206039.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[39\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206038.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[5\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206037.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[27\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206037.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[7\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206036.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[5\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206036.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[42\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206036.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[61\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206034.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[28\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206034.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[5\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206035.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[59\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206035.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[27\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206035.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[45\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206033.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[45\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206033.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[5\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206032.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[37\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206032.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[26\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206031.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[53\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206031.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[46\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206030.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[31\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206030.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[1\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206029.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[1\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206029.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[1\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206028.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[61\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206027.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[43\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206027.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[37\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206026.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[47\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206025.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[11\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206025.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[43\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206023.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[5\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206022.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[5\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206022.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[35\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206020.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[0\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206020.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[45\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206020.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[39\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206020.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[41\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206018.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[33\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206017.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[7\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206017.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[5\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206017.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[8\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net206016.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[63\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206016.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[4\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206014.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[6\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206013.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[55\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206013.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[52\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206012.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[18\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206011.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[34\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206010.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[2\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206010.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[18\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206010.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[31\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net206009.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[31\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206009.
+[WARNING EST-0026] Missing route to pin g_phy\[8\].u_tx\/g_lane\[23\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206008.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[48\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206006.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[30\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206006.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[63\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net206005.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[31\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206003.
+[WARNING EST-0026] Missing route to pin g_phy\[13\].u_tx\/g_lane\[26\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206002.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[19\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206001.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[33\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205998.
+[WARNING EST-0026] Missing route to pin g_phy\[14\].u_tx\/g_lane\[56\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205998.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[0\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205996.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[60\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205996.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[28\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205876.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[31\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205876.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7131\]$_DFFE_PN0P_/RESETN in net net171331.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5474\]$_DFFE_PN0P_/RESETN in net net171096.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[5266\]$_DFFE_PN0P_/RESETN in net net171096.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[6\]\[16\]$_DFF_PN0_/RESETN in net net170146.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[55\]$_DFF_PN0_/RESETN in net net170078.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[8\]\[106\]$_DFF_PN0_/RESETN in net net170078.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[1247\]$_DFFE_PN0P_/RESETN in net net171236.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[55\]$_DFF_PN0_/RESETN in net net171017.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[11\]\[186\]$_DFF_PN0_/RESETN in net net171017.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[24\]\[33\]$_DFF_PN0_/RESETN in net net170510.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[24\]\[16\]$_DFF_PN0_/RESETN in net net170510.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[26\]\[10\]$_DFF_PN0_/RESETN in net net170443.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[13\].fifo\/wr_bin\[1\]$_DFF_PN0_/RESETN in net net171321.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/g_cdc\[13\].fifo\/rd_gray_wr1\[2\]$_DFF_PN0_/RESETN in net net171321.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[7749\]$_DFFE_PN0P_/RESETN in net net171321.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8938\]$_DFFE_PN0P_/RESETN in net net171281.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8926\]$_DFFE_PN0P_/RESETN in net net171281.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[8791\]$_DFFE_PN0P_/RESETN in net net171281.
+[WARNING EST-0026] Missing route to pin u_digital\/gearbox_cdc\/fifo_wr_data\[4264\]$_DFFE_PN0P_/RESETN in net net171142.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[88\]$_DFF_PN0_/RESETN in net net170963.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[12\]\[60\]$_DFF_PN0_/RESETN in net net170963.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[84\]$_DFF_PN0_/RESETN in net net170914.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[14\]\[148\]$_DFF_PN0_/RESETN in net net170914.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_data\[2\]\[27\]$_DFF_PN0_/RESETN in net net170341.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/sel_lane\[3\]\[4\]$_DFFE_PN0P_/RESETN in net net174381.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/sel_lane\[3\]\[3\]$_DFFE_PN0P_/RESETN in net net174381.
+[WARNING EST-0026] Missing route to pin u_digital\/scheduler\/rr_ptr\[4\]\[0\]$_DFFE_PN0P_/RESETN in net net174381.
+[WARNING EST-0026] Missing route to pin u_digital\/ingress_queues\/head_addr\[15\]\[24\]$_DFF_PN0_/RESETN in net net170869.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[33\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net206089.
+[WARNING EST-0026] Missing route to pin g_phy\[6\].u_tx\/g_lane\[3\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net206090.
+[WARNING EST-0026] Missing route to pin g_phy\[12\].u_tx\/g_lane\[22\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net206090.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[44\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net206080.
+[WARNING EST-0026] Missing route to pin g_phy\[4\].u_tx\/g_lane\[15\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net206080.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[60\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205886.
+[WARNING EST-0026] Missing route to pin g_phy\[10\].u_tx\/g_lane\[37\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205984.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[33\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205993.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[33\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205992.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[1\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205992.
+[WARNING EST-0026] Missing route to pin g_phy\[7\].u_tx\/g_lane\[17\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205991.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[62\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205991.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[30\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205991.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[51\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205990.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[36\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205989.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[61\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205989.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[27\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205987.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[2\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205987.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[53\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205986.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[47\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205983.
+[WARNING EST-0026] Missing route to pin g_phy\[3\].u_tx\/g_lane\[1\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205983.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[5\].u_ser\/shift\[6\]$_DFF_PN0_/RESETN in net net205982.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[59\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205982.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[53\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205982.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[5\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205981.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[4\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205981.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[5\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205980.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[43\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205980.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[37\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205979.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[21\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205979.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[5\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205978.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[3\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205978.
+[WARNING EST-0026] Missing route to pin g_phy\[9\].u_tx\/g_lane\[28\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205978.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[21\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205977.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[4\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205977.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[5\].u_ser\/dq_fall$_DFF_PN0_/RESETN in net net205976.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[4\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205976.
+[WARNING EST-0026] Missing route to pin g_phy\[11\].u_tx\/g_lane\[10\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205976.
+[WARNING EST-0026] Missing route to pin g_phy\[0\].u_tx\/g_lane\[53\].u_ser\/shift\[7\]$_DFF_PN0_/RESETN in net net205976.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[47\].u_ser\/shift\[5\]$_DFF_PN0_/RESETN in net net205973.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[7\].u_ser\/shift\[4\]$_DFF_PN0_/RESETN in net net205972.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[7\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205972.
+[WARNING EST-0026] Missing route to pin g_phy\[2\].u_tx\/g_lane\[37\].u_ser\/shift\[2\]$_DFF_PN0_/RESETN in net net205972.
+[WARNING EST-0026] Missing route to pin g_phy\[15\].u_tx\/g_lane\[59\].u_ser\/dq_rise$_DFF_PN0_/RESETN in net net205971.
+[WARNING EST-0026] Missing route to pin g_phy\[5\].u_tx\/g_lane\[44\].u_ser\/shift\[3\]$_DFF_PN0_/RESETN in net net205970.
+[WARNING EST-0026] message limit (1000) reached. This message will no longer print.
+=====ALAN=====
+Design area 80932 um^2 36% utilization.
+=====MIN_PERIYOT=====
+core_clk period_min = 1317.08 fmax = 759.25
+phy_clk period_min = 455.18 fmax = 2196.91
+wck period_min = 385.13 fmax = 2596.51
+=====EN_KOTU_SLACK=====
+setup: -9.170825765458801e-10
+hold : 2.8796798279273617e-11
+=====TNS=====
+tns max -27241144.00
+=====KRITIK_YOL=====
+Startpoint: u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/fifo_wr_data[5853]$_DFFE_PN0P_
+          (recovery check against rising-edge clock core_clk)
+Path Group: asynchronous
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 282.678  282.678   clock network delay (propagated)
+   0.000  282.678 ^ u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+  89.187  371.865 v u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  22.325  394.190 ^ u_digital/gearbox_cdc/g_rstbuf[10].u_crb/_2_/Y (INVx1_ASAP7_75t_R)
+  87.153  481.343 ^ place171372/Y (BUFx2_ASAP7_75t_R)
+ 101.877  583.220 ^ place171371/Y (BUFx2_ASAP7_75t_R)
+  31.334  614.554 ^ place171370/Y (BUFx3_ASAP7_75t_SL)
+  44.746  659.300 ^ place171369/Y (BUFx3_ASAP7_75t_SL)
+  56.135  715.435 ^ place171365/Y (BUFx3_ASAP7_75t_SL)
+  52.199  767.634 ^ place171364/Y (BUFx3_ASAP7_75t_SL)
+   0.000  767.634 ^ u_digital/gearbox_cdc/fifo_wr_data[5853]$_DFFE_PN0P_/RESETN (DFFASRHQNx1_ASAP7_75t_SL)
+          767.634   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 265.818  665.818   clock network delay (propagated)
+   1.488  667.306   clock reconvergence pessimism
+          667.306 ^ u_digital/gearbox_cdc/fifo_wr_data[5853]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+   9.802  677.107   library recovery time
+          677.107   data required time
+-----------------------------------------------------------
+          677.107   data required time
+         -767.634   data arrival time
+-----------------------------------------------------------
+          -90.526   slack (VIOLATED)
+
+
+Startpoint: u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/fifo_wr_data[5978]$_DFFE_PN0P_
+          (recovery check against rising-edge clock core_clk)
+Path Group: asynchronous
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 282.678  282.678   clock network delay (propagated)
+   0.000  282.678 ^ u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+  89.187  371.865 v u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  22.325  394.190 ^ u_digital/gearbox_cdc/g_rstbuf[10].u_crb/_2_/Y (INVx1_ASAP7_75t_R)
+  87.153  481.343 ^ place171372/Y (BUFx2_ASAP7_75t_R)
+ 101.877  583.220 ^ place171371/Y (BUFx2_ASAP7_75t_R)
+  31.334  614.554 ^ place171370/Y (BUFx3_ASAP7_75t_SL)
+  44.746  659.300 ^ place171369/Y (BUFx3_ASAP7_75t_SL)
+  56.135  715.435 ^ place171365/Y (BUFx3_ASAP7_75t_SL)
+  52.199  767.634 ^ place171364/Y (BUFx3_ASAP7_75t_SL)
+   0.000  767.634 ^ u_digital/gearbox_cdc/fifo_wr_data[5978]$_DFFE_PN0P_/RESETN (DFFASRHQNx1_ASAP7_75t_SL)
+          767.634   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 266.793  666.793   clock network delay (propagated)
+   1.488  668.281   clock reconvergence pessimism
+          668.281 ^ u_digital/gearbox_cdc/fifo_wr_data[5978]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+   9.798  678.079   library recovery time
+          678.079   data required time
+-----------------------------------------------------------
+          678.079   data required time
+         -767.634   data arrival time
+-----------------------------------------------------------
+          -89.555   slack (VIOLATED)
+
+
+Startpoint: u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/fifo_wr_data[6010]$_DFFE_PN0P_
+          (recovery check against rising-edge clock core_clk)
+Path Group: asynchronous
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 282.678  282.678   clock network delay (propagated)
+   0.000  282.678 ^ u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+  89.187  371.865 v u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  22.325  394.190 ^ u_digital/gearbox_cdc/g_rstbuf[10].u_crb/_2_/Y (INVx1_ASAP7_75t_R)
+  87.153  481.343 ^ place171372/Y (BUFx2_ASAP7_75t_R)
+ 101.877  583.220 ^ place171371/Y (BUFx2_ASAP7_75t_R)
+  31.334  614.554 ^ place171370/Y (BUFx3_ASAP7_75t_SL)
+  44.746  659.300 ^ place171369/Y (BUFx3_ASAP7_75t_SL)
+  56.135  715.435 ^ place171365/Y (BUFx3_ASAP7_75t_SL)
+  52.199  767.634 ^ place171364/Y (BUFx3_ASAP7_75t_SL)
+   0.000  767.634 ^ u_digital/gearbox_cdc/fifo_wr_data[6010]$_DFFE_PN0P_/RESETN (DFFASRHQNx1_ASAP7_75t_SL)
+          767.634   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 266.793  666.793   clock network delay (propagated)
+   1.488  668.281   clock reconvergence pessimism
+          668.281 ^ u_digital/gearbox_cdc/fifo_wr_data[6010]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+   9.798  678.079   library recovery time
+          678.079   data required time
+-----------------------------------------------------------
+          678.079   data required time
+         -767.634   data arrival time
+-----------------------------------------------------------
+          -89.555   slack (VIOLATED)
+
+
+Startpoint: u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/fifo_wr_data[6014]$_DFFE_PN0P_
+          (recovery check against rising-edge clock core_clk)
+Path Group: asynchronous
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 282.678  282.678   clock network delay (propagated)
+   0.000  282.678 ^ u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+  89.187  371.865 v u_digital/gearbox_cdc/g_rstbuf[10].u_crb/rst_n_out$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  22.325  394.190 ^ u_digital/gearbox_cdc/g_rstbuf[10].u_crb/_2_/Y (INVx1_ASAP7_75t_R)
+  87.153  481.343 ^ place171372/Y (BUFx2_ASAP7_75t_R)
+ 101.877  583.220 ^ place171371/Y (BUFx2_ASAP7_75t_R)
+  31.334  614.554 ^ place171370/Y (BUFx3_ASAP7_75t_SL)
+  44.746  659.300 ^ place171369/Y (BUFx3_ASAP7_75t_SL)
+  56.135  715.435 ^ place171365/Y (BUFx3_ASAP7_75t_SL)
+  52.199  767.634 ^ place171364/Y (BUFx3_ASAP7_75t_SL)
+   0.000  767.634 ^ u_digital/gearbox_cdc/fifo_wr_data[6014]$_DFFE_PN0P_/RESETN (DFFASRHQNx1_ASAP7_75t_SL)
+          767.634   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 266.793  666.793   clock network delay (propagated)
+   1.488  668.281   clock reconvergence pessimism
+          668.281 ^ u_digital/gearbox_cdc/fifo_wr_data[6014]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+   9.798  678.079   library recovery time
+          678.079   data required time
+-----------------------------------------------------------
+          678.079   data required time
+         -767.634   data arrival time
+-----------------------------------------------------------
+          -89.555   slack (VIOLATED)
+
+
+Startpoint: u_digital/gearbox_cdc/g_rstbuf[13].u_crb/rst_n_out$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/fifo_wr_data[7635]$_DFFE_PN0P_
+          (recovery check against rising-edge clock core_clk)
+Path Group: asynchronous
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 285.414  285.414   clock network delay (propagated)
+   0.000  285.414 ^ u_digital/gearbox_cdc/g_rstbuf[13].u_crb/rst_n_out$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+  84.781  370.194 v u_digital/gearbox_cdc/g_rstbuf[13].u_crb/rst_n_out$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  19.834  390.028 ^ u_digital/gearbox_cdc/g_rstbuf[13].u_crb/_2_/Y (INVx1_ASAP7_75t_R)
+  52.273  442.301 ^ place171322/Y (BUFx2_ASAP7_75t_R)
+ 111.807  554.108 ^ place171321/Y (BUFx2_ASAP7_75t_R)
+  31.197  585.305 ^ place171320/Y (BUFx3_ASAP7_75t_SL)
+  45.675  630.980 ^ place171319/Y (BUFx3_ASAP7_75t_SL)
+  31.353  662.333 ^ place171318/Y (BUFx3_ASAP7_75t_SL)
+  48.783  711.116 ^ place171317/Y (BUFx3_ASAP7_75t_SL)
+  54.895  766.011 ^ place171316/Y (BUFx3_ASAP7_75t_SL)
+   0.000  766.011 ^ u_digital/gearbox_cdc/fifo_wr_data[7635]$_DFFE_PN0P_/RESETN (DFFASRHQNx1_ASAP7_75t_SL)
+          766.011   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 266.777  666.777   clock network delay (propagated)
+   0.784  667.561   clock reconvergence pessimism
+          667.561 ^ u_digital/gearbox_cdc/fifo_wr_data[7635]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+   8.906  676.468   library recovery time
+          676.468   data required time
+-----------------------------------------------------------
+          676.468   data required time
+         -766.011   data arrival time
+-----------------------------------------------------------
+          -89.543   slack (VIOLATED)
+
+
+Startpoint: u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/core_addr[515]$_DFFE_PN0P_
+          (rising edge-triggered flip-flop clocked by core_clk)
+Path Group: core_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 270.725  270.725   clock network delay (propagated)
+   0.000  270.725 ^ u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 107.745  378.470 v u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  31.383  409.853 v place203041/Y (BUFx3_ASAP7_75t_SL)
+  40.498  450.352 v _567791_/Y (XOR2x2_ASAP7_75t_R)
+  55.696  506.048 v _567792_/Y (OR4x1_ASAP7_75t_R)
+  57.865  563.913 v _567793_/Y (OA211x2_ASAP7_75t_R)
+  50.086  613.999 v _567960_/Y (AO22x1_ASAP7_75t_R)
+  53.615  667.614 v _568110_/Y (OA211x2_ASAP7_75t_R)
+  39.541  707.154 v _568111_/Y (OA21x2_ASAP7_75t_R)
+  48.255  755.409 v _568113_/Y (OR3x1_ASAP7_75t_R)
+  45.362  800.771 v _568121_/Y (AO22x1_ASAP7_75t_R)
+  54.270  855.041 v _568124_/Y (OR5x1_ASAP7_75t_L)
+  57.526  912.567 v _568236_/Y (OA211x2_ASAP7_75t_R)
+  27.076  939.642 v _568241_/Y (AND3x1_ASAP7_75t_R)
+  62.377 1002.019 v _568277_/Y (OR5x2_ASAP7_75t_L)
+  26.222 1028.241 v rebuffer230009/Y (BUFx12_ASAP7_75t_SL)
+  15.619 1043.860 v place127883/Y (BUFx6f_ASAP7_75t_SL)
+  36.071 1079.931 v _568322_/Y (AO21x1_ASAP7_75t_R)
+  39.147 1119.078 v _568324_/Y (AND5x2_ASAP7_75t_L)
+  45.361 1164.439 v _568331_/Y (OA21x2_ASAP7_75t_R)
+  22.015 1186.454 v place126724/Y (BUFx3_ASAP7_75t_SL)
+  41.991 1228.445 v _568341_/Y (OA21x2_ASAP7_75t_R)
+  69.746 1298.191 v _568386_/Y (OR5x1_ASAP7_75t_R)
+  22.233 1320.424 v place125905/Y (BUFx3_ASAP7_75t_SL)
+  36.193 1356.617 v _568387_/Y (OR2x2_ASAP7_75t_R)
+  27.077 1383.694 v place124131/Y (BUFx12_ASAP7_75t_SL)
+  44.751 1428.445 v _568573_/Y (OA222x2_ASAP7_75t_R)
+  52.673 1481.118 v _568575_/Y (OA211x2_ASAP7_75t_R)
+  56.871 1537.989 v _568589_/Y (OA211x2_ASAP7_75t_R)
+  21.469 1559.458 ^ _568590_/Y (AOI22x1_ASAP7_75t_R)
+   0.042 1559.500 ^ u_digital/gearbox_cdc/core_addr[515]$_DFFE_PN0P_/D (DFFASRHQNx1_ASAP7_75t_L)
+         1559.500   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 261.735  661.735   clock network delay (propagated)
+   2.613  664.348   clock reconvergence pessimism
+          664.348 ^ u_digital/gearbox_cdc/core_addr[515]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_L)
+ -21.930  642.418   library setup time
+          642.418   data required time
+-----------------------------------------------------------
+          642.418   data required time
+         -1559.500   data arrival time
+-----------------------------------------------------------
+         -917.083   slack (VIOLATED)
+
+
+Startpoint: u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/core_addr[492]$_DFFE_PN0P_
+          (rising edge-triggered flip-flop clocked by core_clk)
+Path Group: core_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 270.725  270.725   clock network delay (propagated)
+   0.000  270.725 ^ u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 107.745  378.470 v u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  31.383  409.853 v place203041/Y (BUFx3_ASAP7_75t_SL)
+  40.498  450.352 v _567791_/Y (XOR2x2_ASAP7_75t_R)
+  55.696  506.048 v _567792_/Y (OR4x1_ASAP7_75t_R)
+  57.865  563.913 v _567793_/Y (OA211x2_ASAP7_75t_R)
+  50.086  613.999 v _567960_/Y (AO22x1_ASAP7_75t_R)
+  53.615  667.614 v _568110_/Y (OA211x2_ASAP7_75t_R)
+  39.541  707.154 v _568111_/Y (OA21x2_ASAP7_75t_R)
+  48.255  755.409 v _568113_/Y (OR3x1_ASAP7_75t_R)
+  45.362  800.771 v _568121_/Y (AO22x1_ASAP7_75t_R)
+  54.270  855.041 v _568124_/Y (OR5x1_ASAP7_75t_L)
+  57.526  912.567 v _568236_/Y (OA211x2_ASAP7_75t_R)
+  27.076  939.642 v _568241_/Y (AND3x1_ASAP7_75t_R)
+  62.377 1002.019 v _568277_/Y (OR5x2_ASAP7_75t_L)
+  26.222 1028.241 v rebuffer230009/Y (BUFx12_ASAP7_75t_SL)
+  15.619 1043.860 v place127883/Y (BUFx6f_ASAP7_75t_SL)
+  36.071 1079.931 v _568322_/Y (AO21x1_ASAP7_75t_R)
+  39.147 1119.078 v _568324_/Y (AND5x2_ASAP7_75t_L)
+  45.361 1164.439 v _568331_/Y (OA21x2_ASAP7_75t_R)
+  22.015 1186.454 v place126724/Y (BUFx3_ASAP7_75t_SL)
+  41.991 1228.445 v _568341_/Y (OA21x2_ASAP7_75t_R)
+  69.746 1298.191 v _568386_/Y (OR5x1_ASAP7_75t_R)
+  22.233 1320.424 v place125905/Y (BUFx3_ASAP7_75t_SL)
+  36.193 1356.617 v _568387_/Y (OR2x2_ASAP7_75t_R)
+  27.077 1383.694 v place124131/Y (BUFx12_ASAP7_75t_SL)
+  21.120 1404.814 v place124126/Y (BUFx3_ASAP7_75t_SL)
+  45.904 1450.718 v _568985_/Y (OA222x2_ASAP7_75t_R)
+  54.796 1505.514 v _568986_/Y (OA211x2_ASAP7_75t_R)
+  32.385 1537.899 v _568987_/Y (AND4x1_ASAP7_75t_R)
+  22.284 1560.183 ^ _568988_/Y (AOI22x1_ASAP7_75t_R)
+   0.059 1560.242 ^ u_digital/gearbox_cdc/core_addr[492]$_DFFE_PN0P_/D (DFFASRHQNx1_ASAP7_75t_SL)
+         1560.242   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 260.759  660.760   clock network delay (propagated)
+   5.445  666.205   clock reconvergence pessimism
+          666.205 ^ u_digital/gearbox_cdc/core_addr[492]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+ -20.134  646.071   library setup time
+          646.071   data required time
+-----------------------------------------------------------
+          646.071   data required time
+         -1560.242   data arrival time
+-----------------------------------------------------------
+         -914.171   slack (VIOLATED)
+
+
+Startpoint: u_digital/ingress_queues/head_addr[29][0]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/core_addr[452]$_DFFE_PN0P_
+          (rising edge-triggered flip-flop clocked by core_clk)
+Path Group: core_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 270.715  270.715   clock network delay (propagated)
+   0.000  270.715 ^ u_digital/ingress_queues/head_addr[29][0]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+  86.257  356.972 v u_digital/ingress_queues/head_addr[29][0]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  24.072  381.044 v place201656/Y (BUFx3_ASAP7_75t_SL)
+  19.776  400.819 v place201654/Y (BUFx4f_ASAP7_75t_SL)
+  21.172  421.991 v place201652/Y (BUFx3_ASAP7_75t_SL)
+  20.933  442.924 v place201651/Y (BUFx3_ASAP7_75t_SL)
+  38.850  481.774 v _564455_/Y (XOR2x2_ASAP7_75t_R)
+  77.781  559.554 v _564456_/Y (OR4x1_ASAP7_75t_R)
+  70.858  630.413 v _564457_/Y (OA211x2_ASAP7_75t_R)
+  52.944  683.357 v _564568_/Y (AO221x1_ASAP7_75t_R)
+  32.120  715.477 v _564574_/Y (AND3x1_ASAP7_75t_R)
+  40.420  755.897 v _564731_/Y (OA21x2_ASAP7_75t_R)
+  50.751  806.648 v _564812_/Y (OR3x1_ASAP7_75t_R)
+  19.766  826.414 v place142262/Y (BUFx3_ASAP7_75t_SL)
+  43.820  870.234 v _564816_/Y (AO221x1_ASAP7_75t_R)
+  39.872  910.106 v _564847_/Y (AO21x1_ASAP7_75t_R)
+  48.982  959.088 v _564908_/Y (OR3x1_ASAP7_75t_R)
+  31.548  990.636 v _564909_/Y (AO31x2_ASAP7_75t_R)
+  36.717 1027.354 v _564920_/Y (OA22x2_ASAP7_75t_R)
+  50.039 1077.392 v _564923_/Y (AO221x1_ASAP7_75t_R)
+  35.876 1113.268 v _564924_/Y (MAJx2_ASAP7_75t_L)
+  59.301 1172.569 v _564941_/Y (OA211x2_ASAP7_75t_R)
+  48.195 1220.764 v _564949_/Y (OA21x2_ASAP7_75t_R)
+  73.552 1294.316 v _564990_/Y (OR5x1_ASAP7_75t_R)
+  22.757 1317.074 v place126014/Y (BUFx3_ASAP7_75t_SL)
+  43.720 1360.794 v _565037_/Y (OA222x2_ASAP7_75t_R)
+  57.434 1418.228 v _565038_/Y (OA211x2_ASAP7_75t_R)
+  56.578 1474.806 v _565039_/Y (OA211x2_ASAP7_75t_R)
+  58.166 1532.972 v _565040_/Y (OA211x2_ASAP7_75t_R)
+  21.415 1554.387 ^ _565041_/Y (AOI22x1_ASAP7_75t_R)
+   0.061 1554.448 ^ u_digital/gearbox_cdc/core_addr[452]$_DFFE_PN0P_/D (DFFASRHQNx1_ASAP7_75t_L)
+         1554.448   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 261.678  661.677   clock network delay (propagated)
+   2.613  664.290   clock reconvergence pessimism
+          664.290 ^ u_digital/gearbox_cdc/core_addr[452]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_L)
+ -20.155  644.135   library setup time
+          644.135   data required time
+-----------------------------------------------------------
+          644.135   data required time
+         -1554.448   data arrival time
+-----------------------------------------------------------
+         -910.313   slack (VIOLATED)
+
+
+Startpoint: u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/core_addr[500]$_DFFE_PN0P_
+          (rising edge-triggered flip-flop clocked by core_clk)
+Path Group: core_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 270.725  270.725   clock network delay (propagated)
+   0.000  270.725 ^ u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 107.745  378.470 v u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  31.383  409.853 v place203041/Y (BUFx3_ASAP7_75t_SL)
+  40.498  450.352 v _567791_/Y (XOR2x2_ASAP7_75t_R)
+  55.696  506.048 v _567792_/Y (OR4x1_ASAP7_75t_R)
+  57.865  563.913 v _567793_/Y (OA211x2_ASAP7_75t_R)
+  50.086  613.999 v _567960_/Y (AO22x1_ASAP7_75t_R)
+  53.615  667.614 v _568110_/Y (OA211x2_ASAP7_75t_R)
+  39.541  707.154 v _568111_/Y (OA21x2_ASAP7_75t_R)
+  48.255  755.409 v _568113_/Y (OR3x1_ASAP7_75t_R)
+  45.362  800.771 v _568121_/Y (AO22x1_ASAP7_75t_R)
+  54.270  855.041 v _568124_/Y (OR5x1_ASAP7_75t_L)
+  57.526  912.567 v _568236_/Y (OA211x2_ASAP7_75t_R)
+  27.076  939.642 v _568241_/Y (AND3x1_ASAP7_75t_R)
+  62.377 1002.019 v _568277_/Y (OR5x2_ASAP7_75t_L)
+  26.222 1028.241 v rebuffer230009/Y (BUFx12_ASAP7_75t_SL)
+  15.619 1043.860 v place127883/Y (BUFx6f_ASAP7_75t_SL)
+  36.071 1079.931 v _568322_/Y (AO21x1_ASAP7_75t_R)
+  39.147 1119.078 v _568324_/Y (AND5x2_ASAP7_75t_L)
+  45.361 1164.439 v _568331_/Y (OA21x2_ASAP7_75t_R)
+  22.015 1186.454 v place126724/Y (BUFx3_ASAP7_75t_SL)
+  41.991 1228.445 v _568341_/Y (OA21x2_ASAP7_75t_R)
+  20.915 1249.360 v place126539/Y (BUFx3_ASAP7_75t_SL)
+  54.278 1303.638 v _568400_/Y (OR4x1_ASAP7_75t_R)
+  21.289 1324.927 v place125901/Y (BUFx3_ASAP7_75t_SL)
+  38.152 1363.079 v _568401_/Y (OR2x2_ASAP7_75t_R)
+  28.175 1391.254 v place124114/Y (BUFx12_ASAP7_75t_SL)
+  18.981 1410.235 v place124112/Y (BUFx3_ASAP7_75t_SL)
+  37.322 1447.557 v _568894_/Y (OA22x2_ASAP7_75t_R)
+  25.656 1473.213 v _568895_/Y (AND4x1_ASAP7_75t_R)
+  53.330 1526.543 v _568900_/Y (OA211x2_ASAP7_75t_R)
+  23.253 1549.795 ^ _568901_/Y (AOI22x1_ASAP7_75t_R)
+   0.069 1549.864 ^ u_digital/gearbox_cdc/core_addr[500]$_DFFE_PN0P_/D (DFFASRHQNx1_ASAP7_75t_L)
+         1549.864   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 261.735  661.735   clock network delay (propagated)
+   2.613  664.348   clock reconvergence pessimism
+          664.348 ^ u_digital/gearbox_cdc/core_addr[500]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_L)
+ -22.238  642.110   library setup time
+          642.110   data required time
+-----------------------------------------------------------
+          642.110   data required time
+         -1549.864   data arrival time
+-----------------------------------------------------------
+         -907.755   slack (VIOLATED)
+
+
+Startpoint: u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by core_clk)
+Endpoint: u_digital/gearbox_cdc/core_addr[516]$_DFFE_PN0P_
+          (rising edge-triggered flip-flop clocked by core_clk)
+Path Group: core_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock core_clk (rise edge)
+ 270.725  270.725   clock network delay (propagated)
+   0.000  270.725 ^ u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 107.745  378.470 v u_digital/ingress_queues/head_addr[19][3]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  31.383  409.853 v place203041/Y (BUFx3_ASAP7_75t_SL)
+  40.498  450.352 v _567791_/Y (XOR2x2_ASAP7_75t_R)
+  55.696  506.048 v _567792_/Y (OR4x1_ASAP7_75t_R)
+  57.865  563.913 v _567793_/Y (OA211x2_ASAP7_75t_R)
+  50.086  613.999 v _567960_/Y (AO22x1_ASAP7_75t_R)
+  53.615  667.614 v _568110_/Y (OA211x2_ASAP7_75t_R)
+  39.541  707.154 v _568111_/Y (OA21x2_ASAP7_75t_R)
+  48.255  755.409 v _568113_/Y (OR3x1_ASAP7_75t_R)
+  45.362  800.771 v _568121_/Y (AO22x1_ASAP7_75t_R)
+  54.270  855.041 v _568124_/Y (OR5x1_ASAP7_75t_L)
+  57.526  912.567 v _568236_/Y (OA211x2_ASAP7_75t_R)
+  27.076  939.642 v _568241_/Y (AND3x1_ASAP7_75t_R)
+  62.377 1002.019 v _568277_/Y (OR5x2_ASAP7_75t_L)
+  26.222 1028.241 v rebuffer230009/Y (BUFx12_ASAP7_75t_SL)
+  15.619 1043.860 v place127883/Y (BUFx6f_ASAP7_75t_SL)
+  36.071 1079.931 v _568322_/Y (AO21x1_ASAP7_75t_R)
+  39.147 1119.078 v _568324_/Y (AND5x2_ASAP7_75t_L)
+  45.361 1164.439 v _568331_/Y (OA21x2_ASAP7_75t_R)
+  22.015 1186.454 v place126724/Y (BUFx3_ASAP7_75t_SL)
+  41.991 1228.445 v _568341_/Y (OA21x2_ASAP7_75t_R)
+  20.915 1249.360 v place126539/Y (BUFx3_ASAP7_75t_SL)
+  54.278 1303.638 v _568400_/Y (OR4x1_ASAP7_75t_R)
+  21.289 1324.927 v place125901/Y (BUFx3_ASAP7_75t_SL)
+  38.152 1363.079 v _568403_/Y (OR2x2_ASAP7_75t_R)
+  27.624 1390.703 v place124109/Y (BUFx12_ASAP7_75t_SL)
+  17.777 1408.480 v place124108/Y (BUFx3_ASAP7_75t_SL)
+  43.219 1451.700 v _568566_/Y (OA222x2_ASAP7_75t_R)
+  22.511 1474.211 v _568569_/Y (AND3x1_ASAP7_75t_R)
+  54.915 1529.126 v _568570_/Y (OA211x2_ASAP7_75t_R)
+  20.865 1549.991 ^ _568571_/Y (AOI22x1_ASAP7_75t_R)
+   0.000 1549.991 ^ u_digital/gearbox_cdc/core_addr[516]$_DFFE_PN0P_/D (DFFASRHQNx1_ASAP7_75t_L)
+         1549.991   data arrival time
+
+ 400.000  400.000   clock core_clk (rise edge)
+ 261.829  661.829   clock network delay (propagated)
+   2.613  664.442   clock reconvergence pessimism
+          664.442 ^ u_digital/gearbox_cdc/core_addr[516]$_DFFE_PN0P_/CLK (DFFASRHQNx1_ASAP7_75t_L)
+ -21.766  642.676   library setup time
+          642.676   data required time
+-----------------------------------------------------------
+          642.676   data required time
+         -1549.991   data arrival time
+-----------------------------------------------------------
+         -907.316   slack (VIOLATED)
+
+
+Startpoint: u_digital/gearbox_cdc/g_cdc[13].fifo/rd_bin[0]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by phy_clk)
+Endpoint: u_digital/gearbox_cdc/g_cdc[13].fifo/rd_empty$_DFF_PN1_
+          (rising edge-triggered flip-flop clocked by phy_clk)
+Path Group: phy_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock phy_clk (rise edge)
+ 116.607  116.607   clock network delay (propagated)
+   0.000  116.607 ^ u_digital/gearbox_cdc/g_cdc[13].fifo/rd_bin[0]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 117.838  234.444 v u_digital/gearbox_cdc/g_cdc[13].fifo/rd_bin[0]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+ 113.248  347.693 v _448599_/Y (OR3x1_ASAP7_75t_R)
+  41.890  389.582 ^ _448600_/Y (NOR2x1_ASAP7_75t_R)
+  64.838  454.420 v _448946_/Y (XNOR2x2_ASAP7_75t_R)
+  49.347  503.767 ^ _465131_/Y (XOR2x2_ASAP7_75t_R)
+  41.461  545.228 ^ _465134_/Y (AND4x1_ASAP7_75t_R)
+   0.000  545.228 ^ u_digital/gearbox_cdc/g_cdc[13].fifo/rd_empty$_DFF_PN1_/D (DFFASRHQNx1_ASAP7_75t_R)
+          545.228   data arrival time
+
+ 869.565  869.565   clock phy_clk (rise edge)
+ 112.068  981.633   clock network delay (propagated)
+   4.539  986.172   clock reconvergence pessimism
+          986.172 ^ u_digital/gearbox_cdc/g_cdc[13].fifo/rd_empty$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ -26.563  959.609   library setup time
+          959.609   data required time
+-----------------------------------------------------------
+          959.609   data required time
+         -545.228   data arrival time
+-----------------------------------------------------------
+          414.381   slack (MET)
+
+
+Startpoint: u_digital/gearbox_cdc/g_cdc[10].fifo/rd_bin[0]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by phy_clk)
+Endpoint: u_digital/gearbox_cdc/g_cdc[10].fifo/rd_empty$_DFF_PN1_
+          (rising edge-triggered flip-flop clocked by phy_clk)
+Path Group: phy_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock phy_clk (rise edge)
+ 116.267  116.267   clock network delay (propagated)
+   0.000  116.267 ^ u_digital/gearbox_cdc/g_cdc[10].fifo/rd_bin[0]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 118.420  234.687 v u_digital/gearbox_cdc/g_cdc[10].fifo/rd_bin[0]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+ 102.908  337.594 v _439930_/Y (OR3x1_ASAP7_75t_R)
+  39.505  377.099 ^ _442560_/Y (NOR2x1_ASAP7_75t_R)
+  64.041  441.140 v _442561_/Y (XNOR2x2_ASAP7_75t_R)
+  49.757  490.898 ^ _465348_/Y (XOR2x2_ASAP7_75t_R)
+  43.623  534.521 ^ _465351_/Y (AND4x1_ASAP7_75t_R)
+   0.043  534.564 ^ u_digital/gearbox_cdc/g_cdc[10].fifo/rd_empty$_DFF_PN1_/D (DFFASRHQNx1_ASAP7_75t_SL)
+          534.564   data arrival time
+
+ 869.565  869.565   clock phy_clk (rise edge)
+ 111.818  981.383   clock network delay (propagated)
+   4.449  985.832   clock reconvergence pessimism
+          985.832 ^ u_digital/gearbox_cdc/g_cdc[10].fifo/rd_empty$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+ -18.063  967.769   library setup time
+          967.769   data required time
+-----------------------------------------------------------
+          967.769   data required time
+         -534.564   data arrival time
+-----------------------------------------------------------
+          433.205   slack (MET)
+
+
+Startpoint: u_digital/gearbox_cdc/g_cdc[8].fifo/rd_bin[0]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by phy_clk)
+Endpoint: u_digital/gearbox_cdc/g_cdc[8].fifo/rd_empty$_DFF_PN1_
+          (rising edge-triggered flip-flop clocked by phy_clk)
+Path Group: phy_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock phy_clk (rise edge)
+ 116.598  116.598   clock network delay (propagated)
+   0.000  116.598 ^ u_digital/gearbox_cdc/g_cdc[8].fifo/rd_bin[0]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 122.034  238.632 v u_digital/gearbox_cdc/g_cdc[8].fifo/rd_bin[0]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+  54.320  292.952 v _416814_/Y (OR3x1_ASAP7_75t_R)
+  49.145  342.097 v place172547/Y (BUFx2_ASAP7_75t_R)
+  29.847  371.944 ^ _452103_/Y (NOR2x1_ASAP7_75t_R)
+  61.186  433.130 v _452104_/Y (XNOR2x2_ASAP7_75t_R)
+  49.538  482.668 ^ _465485_/Y (XOR2x2_ASAP7_75t_R)
+  40.584  523.253 ^ _465489_/Y (AND4x1_ASAP7_75t_R)
+   0.053  523.306 ^ u_digital/gearbox_cdc/g_cdc[8].fifo/rd_empty$_DFF_PN1_/D (DFFASRHQNx1_ASAP7_75t_SL)
+          523.306   data arrival time
+
+ 869.565  869.565   clock phy_clk (rise edge)
+ 111.979  981.544   clock network delay (propagated)
+   4.619  986.163   clock reconvergence pessimism
+          986.163 ^ u_digital/gearbox_cdc/g_cdc[8].fifo/rd_empty$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+ -17.945  968.218   library setup time
+          968.218   data required time
+-----------------------------------------------------------
+          968.218   data required time
+         -523.306   data arrival time
+-----------------------------------------------------------
+          444.912   slack (MET)
+
+
+Startpoint: u_digital/gearbox_cdc/g_cdc[7].fifo/rd_bin[1]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by phy_clk)
+Endpoint: u_digital/gearbox_cdc/g_cdc[7].fifo/rd_empty$_DFF_PN1_
+          (rising edge-triggered flip-flop clocked by phy_clk)
+Path Group: phy_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock phy_clk (rise edge)
+ 116.338  116.338   clock network delay (propagated)
+   0.000  116.338 ^ u_digital/gearbox_cdc/g_cdc[7].fifo/rd_bin[1]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 108.566  224.904 ^ u_digital/gearbox_cdc/g_cdc[7].fifo/rd_bin[1]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+ 107.736  332.640 ^ _419195_/Y (OR3x1_ASAP7_75t_R)
+  52.540  385.180 v _455984_/Y (NOR2x1_ASAP7_75t_R)
+  55.282  440.462 ^ _455985_/Y (XNOR2x2_ASAP7_75t_R)
+  54.189  494.651 v _465582_/Y (XNOR2x2_ASAP7_75t_R)
+  16.141  510.792 ^ _465585_/Y (NOR2x1_ASAP7_75t_R)
+   0.000  510.792 ^ u_digital/gearbox_cdc/g_cdc[7].fifo/rd_empty$_DFF_PN1_/D (DFFASRHQNx1_ASAP7_75t_R)
+          510.792   data arrival time
+
+ 869.565  869.565   clock phy_clk (rise edge)
+ 111.813  981.378   clock network delay (propagated)
+   4.525  985.903   clock reconvergence pessimism
+          985.903 ^ u_digital/gearbox_cdc/g_cdc[7].fifo/rd_empty$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ -26.560  959.343   library setup time
+          959.343   data required time
+-----------------------------------------------------------
+          959.343   data required time
+         -510.792   data arrival time
+-----------------------------------------------------------
+          448.551   slack (MET)
+
+
+Startpoint: u_digital/gearbox_cdc/g_cdc[15].fifo/rd_bin[0]$_DFF_PN0_
+            (rising edge-triggered flip-flop clocked by phy_clk)
+Endpoint: u_digital/gearbox_cdc/g_cdc[15].fifo/rd_empty$_DFF_PN1_
+          (rising edge-triggered flip-flop clocked by phy_clk)
+Path Group: phy_clk
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock phy_clk (rise edge)
+ 116.276  116.276   clock network delay (propagated)
+   0.000  116.276 ^ u_digital/gearbox_cdc/g_cdc[15].fifo/rd_bin[0]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ 111.925  228.201 ^ u_digital/gearbox_cdc/g_cdc[15].fifo/rd_bin[0]$_DFF_PN0_/QN (DFFASRHQNx1_ASAP7_75t_R)
+ 101.911  330.113 ^ _441581_/Y (OR3x1_ASAP7_75t_R)
+  51.628  381.740 v _452280_/Y (NOR2x1_ASAP7_75t_R)
+  55.221  436.961 ^ _452281_/Y (XNOR2x2_ASAP7_75t_R)
+  54.190  491.151 v _464965_/Y (XNOR2x2_ASAP7_75t_R)
+  16.592  507.743 ^ _464968_/Y (NOR2x1_ASAP7_75t_R)
+   0.049  507.791 ^ u_digital/gearbox_cdc/g_cdc[15].fifo/rd_empty$_DFF_PN1_/D (DFFASRHQNx1_ASAP7_75t_R)
+          507.791   data arrival time
+
+ 869.565  869.565   clock phy_clk (rise edge)
+ 111.804  981.369   clock network delay (propagated)
+   4.473  985.841   clock reconvergence pessimism
+          985.841 ^ u_digital/gearbox_cdc/g_cdc[15].fifo/rd_empty$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_R)
+ -26.531  959.311   library setup time
+          959.311   data required time
+-----------------------------------------------------------
+          959.311   data required time
+         -507.791   data arrival time
+-----------------------------------------------------------
+          451.519   slack (MET)
+
+
+Startpoint: g_phy[0].u_tx/beat_start$_DFF_PN1_
+            (rising edge-triggered flip-flop clocked by wck)
+Endpoint: g_phy[0].u_tx/g_lane[16].u_ser/dq_fall$_DFF_PN0_
+          (rising edge-triggered flip-flop clocked by wck)
+Path Group: wck
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock wck (rise edge)
+ 235.140  235.140   clock network delay (propagated)
+   0.000  235.140 ^ g_phy[0].u_tx/beat_start$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+  51.178  286.318 v g_phy[0].u_tx/beat_start$_DFF_PN1_/QN (DFFASRHQNx1_ASAP7_75t_SL)
+  42.443  328.761 v _435930_/Y (OR2x2_ASAP7_75t_R)
+  45.195  373.956 v place168173/Y (BUFx2_ASAP7_75t_SL)
+  46.573  420.529 v place168172/Y (BUFx3_ASAP7_75t_SL)
+  52.109  472.638 v place168170/Y (BUFx3_ASAP7_75t_SL)
+  59.144  531.782 v place168169/Y (BUFx3_ASAP7_75t_SL)
+  30.268  562.050 ^ _436576_/Y (OAI22x1_ASAP7_75t_R)
+  27.282  589.332 ^ place149682/Y (BUFx3_ASAP7_75t_SL)
+   3.719  593.051 ^ g_phy[0].u_tx/g_lane[16].u_ser/dq_fall$_DFF_PN0_/D (DFFASRHQNx1_ASAP7_75t_SL)
+          593.051   data arrival time
+
+ 217.391  217.391   clock wck (rise edge)
+ 225.501  442.892   clock network delay (propagated)
+   1.175  444.067   clock reconvergence pessimism
+          444.067 ^ g_phy[0].u_tx/g_lane[16].u_ser/dq_fall$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+ -18.758  425.309   library setup time
+          425.309   data required time
+-----------------------------------------------------------
+          425.309   data required time
+         -593.051   data arrival time
+-----------------------------------------------------------
+         -167.742   slack (VIOLATED)
+
+
+Startpoint: g_phy[0].u_tx/beat_start$_DFF_PN1_
+            (rising edge-triggered flip-flop clocked by wck)
+Endpoint: g_phy[0].u_tx/g_lane[50].u_ser/dq_rise$_DFF_PN0_
+          (rising edge-triggered flip-flop clocked by wck)
+Path Group: wck
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock wck (rise edge)
+ 235.140  235.140   clock network delay (propagated)
+   0.000  235.140 ^ g_phy[0].u_tx/beat_start$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+  51.178  286.318 v g_phy[0].u_tx/beat_start$_DFF_PN1_/QN (DFFASRHQNx1_ASAP7_75t_SL)
+  42.443  328.761 v _435930_/Y (OR2x2_ASAP7_75t_R)
+  45.195  373.956 v place168173/Y (BUFx2_ASAP7_75t_SL)
+  46.573  420.529 v place168172/Y (BUFx3_ASAP7_75t_SL)
+  52.109  472.638 v place168170/Y (BUFx3_ASAP7_75t_SL)
+  59.144  531.782 v place168169/Y (BUFx3_ASAP7_75t_SL)
+  43.339  575.121 ^ _437874_/Y (OAI22x1_ASAP7_75t_R)
+   0.498  575.619 ^ g_phy[0].u_tx/g_lane[50].u_ser/dq_rise$_DFF_PN0_/D (DFFASRHQNx1_ASAP7_75t_SL)
+          575.619   data arrival time
+
+ 217.391  217.391   clock wck (rise edge)
+ 225.501  442.892   clock network delay (propagated)
+   1.175  444.067   clock reconvergence pessimism
+          444.067 ^ g_phy[0].u_tx/g_lane[50].u_ser/dq_rise$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+ -21.850  422.217   library setup time
+          422.217   data required time
+-----------------------------------------------------------
+          422.217   data required time
+         -575.619   data arrival time
+-----------------------------------------------------------
+         -153.402   slack (VIOLATED)
+
+
+Startpoint: g_phy[0].u_tx/beat_start$_DFF_PN1_
+            (rising edge-triggered flip-flop clocked by wck)
+Endpoint: g_phy[0].u_tx/g_lane[38].u_ser/shift[5]$_DFF_PN0_
+          (rising edge-triggered flip-flop clocked by wck)
+Path Group: wck
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock wck (rise edge)
+ 235.140  235.140   clock network delay (propagated)
+   0.000  235.140 ^ g_phy[0].u_tx/beat_start$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+  51.178  286.318 v g_phy[0].u_tx/beat_start$_DFF_PN1_/QN (DFFASRHQNx1_ASAP7_75t_SL)
+  42.443  328.761 v _435930_/Y (OR2x2_ASAP7_75t_R)
+  45.195  373.956 v place168173/Y (BUFx2_ASAP7_75t_SL)
+  46.573  420.529 v place168172/Y (BUFx3_ASAP7_75t_SL)
+  52.109  472.638 v place168170/Y (BUFx3_ASAP7_75t_SL)
+  59.144  531.782 v place168169/Y (BUFx3_ASAP7_75t_SL)
+  31.510  563.292 ^ _437388_/Y (OAI22x1_ASAP7_75t_R)
+   0.048  563.340 ^ g_phy[0].u_tx/g_lane[38].u_ser/shift[5]$_DFF_PN0_/D (DFFASRHQNx1_ASAP7_75t_SL)
+          563.340   data arrival time
+
+ 217.391  217.391   clock wck (rise edge)
+ 225.501  442.892   clock network delay (propagated)
+   1.175  444.067   clock reconvergence pessimism
+          444.067 ^ g_phy[0].u_tx/g_lane[38].u_ser/shift[5]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+ -19.920  424.147   library setup time
+          424.147   data required time
+-----------------------------------------------------------
+          424.147   data required time
+         -563.340   data arrival time
+-----------------------------------------------------------
+         -139.192   slack (VIOLATED)
+
+
+Startpoint: g_phy[0].u_tx/beat_start$_DFF_PN1_
+            (rising edge-triggered flip-flop clocked by wck)
+Endpoint: g_phy[0].u_tx/g_lane[43].u_ser/shift[5]$_DFF_PN0_
+          (rising edge-triggered flip-flop clocked by wck)
+Path Group: wck
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock wck (rise edge)
+ 235.140  235.140   clock network delay (propagated)
+   0.000  235.140 ^ g_phy[0].u_tx/beat_start$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+  51.178  286.318 v g_phy[0].u_tx/beat_start$_DFF_PN1_/QN (DFFASRHQNx1_ASAP7_75t_SL)
+  42.443  328.761 v _435930_/Y (OR2x2_ASAP7_75t_R)
+  45.195  373.956 v place168173/Y (BUFx2_ASAP7_75t_SL)
+  46.573  420.529 v place168172/Y (BUFx3_ASAP7_75t_SL)
+  52.109  472.638 v place168170/Y (BUFx3_ASAP7_75t_SL)
+  59.144  531.782 v place168169/Y (BUFx3_ASAP7_75t_SL)
+  31.221  563.003 ^ _437581_/Y (OAI22x1_ASAP7_75t_R)
+   0.042  563.045 ^ g_phy[0].u_tx/g_lane[43].u_ser/shift[5]$_DFF_PN0_/D (DFFASRHQNx1_ASAP7_75t_SL)
+          563.045   data arrival time
+
+ 217.391  217.391   clock wck (rise edge)
+ 225.501  442.892   clock network delay (propagated)
+   1.175  444.067   clock reconvergence pessimism
+          444.067 ^ g_phy[0].u_tx/g_lane[43].u_ser/shift[5]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+ -19.879  424.188   library setup time
+          424.188   data required time
+-----------------------------------------------------------
+          424.188   data required time
+         -563.045   data arrival time
+-----------------------------------------------------------
+         -138.857   slack (VIOLATED)
+
+
+Startpoint: g_phy[0].u_tx/beat_start$_DFF_PN1_
+            (rising edge-triggered flip-flop clocked by wck)
+Endpoint: g_phy[0].u_tx/g_lane[50].u_ser/shift[2]$_DFF_PN0_
+          (rising edge-triggered flip-flop clocked by wck)
+Path Group: wck
+Path Type: max
+
+   Delay     Time   Description
+-----------------------------------------------------------
+   0.000    0.000   clock wck (rise edge)
+ 235.140  235.140   clock network delay (propagated)
+   0.000  235.140 ^ g_phy[0].u_tx/beat_start$_DFF_PN1_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+  51.178  286.318 v g_phy[0].u_tx/beat_start$_DFF_PN1_/QN (DFFASRHQNx1_ASAP7_75t_SL)
+  42.443  328.761 v _435930_/Y (OR2x2_ASAP7_75t_R)
+  45.195  373.956 v place168173/Y (BUFx2_ASAP7_75t_SL)
+  46.573  420.529 v place168172/Y (BUFx3_ASAP7_75t_SL)
+  52.109  472.638 v place168170/Y (BUFx3_ASAP7_75t_SL)
+  59.144  531.782 v place168169/Y (BUFx3_ASAP7_75t_SL)
+  31.073  562.855 ^ _437863_/Y (OAI22x1_ASAP7_75t_R)
+   0.040  562.895 ^ g_phy[0].u_tx/g_lane[50].u_ser/shift[2]$_DFF_PN0_/D (DFFASRHQNx1_ASAP7_75t_SL)
+          562.895   data arrival time
+
+ 217.391  217.391   clock wck (rise edge)
+ 225.501  442.892   clock network delay (propagated)
+   1.175  444.067   clock reconvergence pessimism
+          444.067 ^ g_phy[0].u_tx/g_lane[50].u_ser/shift[2]$_DFF_PN0_/CLK (DFFASRHQNx1_ASAP7_75t_SL)
+ -19.858  424.209   library setup time
+          424.209   data required time
+-----------------------------------------------------------
+          424.209   data required time
+         -562.895   data arrival time
+-----------------------------------------------------------
+         -138.686   slack (VIOLATED)
+
+
+=====TUR_TIPLERI=====

@@ -1,0 +1,7 @@
+create_clock -name core_clk -period 400.0 [get_ports {core_clk}]
+create_clock -name phy_clk -period 869.565 [get_ports {phy_clk}]
+create_clock -name wck -period 217.391 [get_ports {wck}]
+set_clock_groups -asynchronous -group [get_clocks core_clk] -group [get_clocks phy_clk] -group [get_clocks wck]
+set_false_path -from [get_ports {core_rst_n phy_rst_n wck_rst_n phy_cal_done}]
+set_false_path -from [get_ports core_flush*]
+set_max_fanout 32 [current_design]

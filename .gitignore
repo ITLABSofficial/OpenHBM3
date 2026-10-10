@@ -1,0 +1,16 @@
+# Simulation artifacts
+sim/
+*.vvp
+*.vcd
+*.out
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and editor files
+*~
+*.swp
+.DS_Store
+*.user_backup
